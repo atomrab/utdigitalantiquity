@@ -2,7 +2,7 @@
 
 #### Text
 
-[Antigrapheus](https://dcthree.github.io/antigrapheus/)
+[Antigrapheus](https://dcthree.github.io/antigrapheus/) 
 [FromThePage transcription platform](https://fromthepage.lib.utexas.edu)
 
 #### Images
