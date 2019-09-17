@@ -7,6 +7,9 @@
 [FromThePage transcription platform](https://fromthepage.lib.utexas.edu)
 
 #### Images
+
+[Recogito](https://recogito.pelagios.org)
+
 #### Space
 #### Time
 #### People
