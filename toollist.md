@@ -8,6 +8,8 @@
 
 #### Images
 
+[Mirador Project](https://projectmirador.org/)
+
 [Recogito](https://recogito.pelagios.org)
 
 #### Space
