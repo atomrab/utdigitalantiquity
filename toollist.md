@@ -10,7 +10,6 @@
 
 [Open Greek and Latin project](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/)
 
-edit
 #### Images
 
 [Mirador Project](https://projectmirador.org/)
