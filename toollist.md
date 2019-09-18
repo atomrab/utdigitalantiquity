@@ -15,6 +15,8 @@ edit
 
 [Recogito](https://recogito.pelagios.org)
 
+[retroReveal tool](http://retroreveal.org/)
+
 [Gerbil hyperspectral image data viewer](http://gerbilvis.org/)
 
 #### Space
