@@ -12,7 +12,7 @@
 
 [Recogito](https://recogito.pelagios.org)
 
-[Gerbil hyperspectral image data viewer] (http://gerbilvis.org/)
+[Gerbil hyperspectral image data viewer](http://gerbilvis.org/)
 
 #### Space
 #### Time
