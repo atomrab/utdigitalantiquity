@@ -8,6 +8,8 @@
 
 [Voyant Tools](https://voyant-tools.org)
 
+[Open Greek and Latin project](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/)
+
 edit
 #### Images
 
