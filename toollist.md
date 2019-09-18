@@ -16,6 +16,8 @@
 
 [Recogito](https://recogito.pelagios.org)
 
+[The Palimpsest Project](http://jubilees.stmarytx.edu/)
+
 [retroReveal tool](http://retroreveal.org/)
 
 [Gerbil hyperspectral image data viewer](http://gerbilvis.org/)
