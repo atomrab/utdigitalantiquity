@@ -7,8 +7,6 @@
 [FromThePage transcription platform](https://fromthepage.lib.utexas.edu)
 
 [Voyant Tools](https://voyant-tools.org)
-
-edit
 #### Images
 
 [Mirador Project](https://projectmirador.org/)
@@ -16,6 +14,8 @@ edit
 [Recogito](https://recogito.pelagios.org)
 
 #### Space
+[GeoJSON](http://geojson.io/#map=2/20.0/0.0)
+
 #### Time
 #### People
 #### Data visualization
