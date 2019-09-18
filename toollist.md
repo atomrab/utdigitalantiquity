@@ -24,7 +24,7 @@
 
 #### Space
 
-[ORBIS] (http://orbis.stanford.edu/)
+[ORBIS](http://orbis.stanford.edu/)
 
 [GeoJSON](http://geojson.io/#map=2/20.0/0.0)
 
