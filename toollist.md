@@ -13,6 +13,9 @@
 [Recogito](https://recogito.pelagios.org)
 
 #### Space
+
+[Open Street Map - add pins to ID Pompeiian houses](https://www.openstreetmap.org/search?query=Pompeii#map=15/40.7509/14.4869)
+
 #### Time
 #### People
 #### Data visualization
