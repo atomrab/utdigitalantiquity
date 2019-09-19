@@ -12,15 +12,17 @@
 
 #### Images
 
-[Mirador Project](https://projectmirador.org/)
+[Gerbil hyperspectral image data viewer](http://gerbilvis.org/)
 
-[Recogito](https://recogito.pelagios.org)
+[Mirador Project](https://projectmirador.org/)
 
 [The Palimpsest Project](http://jubilees.stmarytx.edu/)
 
+[Recogito](https://recogito.pelagios.org)
+
 [retroReveal tool](http://retroreveal.org/)
 
-[Gerbil hyperspectral image data viewer](http://gerbilvis.org/)
+[Tropy](https://tropy.org/)
 
 #### Space
 
