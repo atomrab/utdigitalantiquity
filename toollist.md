@@ -30,11 +30,13 @@
 
 [al-Thurayya Project](https://althurayya.github.io/)
 
-[ORBIS](http://orbis.stanford.edu/)
-
 [GeoJSON](http://geojson.io/#map=2/20.0/0.0)
 
+[Pleiades](https://pleiades.stoa.org)
+
 [Open Street Map - add pins to ID Pompeiian houses](https://www.openstreetmap.org/search?query=Pompeii#map=15/40.7509/14.4869)
+
+[ORBIS](http://orbis.stanford.edu/)
 
 #### Time
 #### People
