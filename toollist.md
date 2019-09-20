@@ -14,6 +14,8 @@
 
 #### Images
 
+[ArchAIDE](http://www.archaide.eu) (note that this is also applicable to archaeology)
+
 [Gerbil hyperspectral image data viewer](http://gerbilvis.org/)
 
 [Mirador Project](https://projectmirador.org/)
