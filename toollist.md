@@ -32,7 +32,7 @@
 
 [al-Thurayya Project](https://althurayya.github.io/)
 
-[simple GeoJSON viewer](http://geojson.io/#map=2/20.0/0.0)
+[simple GeoJSON viewer](http://geojson.io)
 
 [Pleiades](https://pleiades.stoa.org)
 
