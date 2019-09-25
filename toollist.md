@@ -20,6 +20,10 @@ edit
 [Gerbil hyperspectral image data viewer](http://gerbilvis.org/)
 
 #### Space
+
+[Pleiades gazetteer](https://pleiades.stoa.org)
+
+
 #### Time
 #### People
 #### Data visualization
