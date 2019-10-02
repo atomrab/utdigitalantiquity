@@ -1,0 +1,214 @@
+Source,Target,Type,ID,Label,Aligned_yn,Category,Subcategory,Passage,StartDate,EndDate,Pseudodate
+Phoenician captain,Io,Directed,2,,n,violence,theft,1.1,,,1001-01-01
+Cretan captain,Europa,Directed,3,,n,violence,theft,1.2,,,1002-01-01
+Greek captain,Medea,Directed,4,,n,violence,theft,1.2,,,1002-01-01
+Phoenician captain,Io,Directed,7,,y,cooperation,marriage alliance,1.5,,,1005-01-01
+Candaules,Gyges,Directed,8,,y,consultation,consultation,1.8,-716,,1008-01-01
+Gyges,Candaules,Directed,9,,y,consultation,consultation,1.8,-716,,1008-02-01
+Candaules,Gyges,Directed,10,,n,negotiation,threat/ultimatum,1.9,-716,,1009-01-01
+Wife of Candaules,Gyges,Directed,11,,n,negotiation,threat/ultimatum,1.11,-716,,1011-01-01
+Gyges,Wife of Candaules,Directed,12,,y,cooperation,offensive alliance,1.11,-716,,1011-02-01
+Wife of Candaules,Gyges,Directed,13,,y,cooperation,instruction,1.11,-716,,1011-03-01
+Wife of Candaules,Gyges,Directed,14,,y,cooperation,offensive alliance,1.12,-716,,1012-01-01
+Gyges,Candaules,Directed,15,,n,violence,murder/assassination,1.12,-716,,1012-02-01
+Gyges,Pythia,Directed,16,,y,consultation,consultation,1.13,-716,,1013-01-01
+Pythia,Gyges,Directed,17,,y,consultation,consultation,1.13,-716,,1013-02-01
+Gyges,Pythia,Directed,18,,y,offering,gift-giving,1.14,-716,,1014-01-01
+Midas,Pythia,Directed,19,,y,offering,gift-giving,1.14,,,1014-02-01
+Alyattes,Cyaxares,Directed,20,,n,conflict,warfare,1.16,-617,-560,1016-01-01
+Alyattes,Pythia,Directed,21,,y,consultation,consultation,1.19,-598,,1019-01-01
+Pythia,Alyattes,Directed,22,,n,negotiation,threat/ultimatum,1.19,-598,,1019-02-01
+Periander,Thrasybulus,Directed,23,,y,consultation,reporting,1.2,-598,,1020-01-01
+Alyattes,Thrasybulus,Directed,24,,n,negotiation,political negotiation,1.21,-598,,1021-01-01
+Alexandros,Helen,Directed,5,,n,violence,theft,1.3,-1260,,1003-01-01
+Lydian herald,Alyattes,Directed,25,,y,consultation,reporting,1.22,-598,,1022-02-01
+Alyattes,Thrasybulus,Directed,26,,n,negotiation,treaty/oath-swearing,1.22,-598,,1022-03-01
+Arion,Corinthian sailors,Directed,27,,n,negotiation,economic negotiation,1.24,,,1024-01-01
+Corinthian sailors,Arion,Directed,28,,n,negotiation,threat/ultimatum,1.24,,,1024-02-01
+Arion,Corinthian sailors,Directed,30,,n,negotiation,supplication,1.24,,,1024-03-01
+Arion,Periander,Directed,31,,n,consultation,reporting,1.24,,,1024-04-01
+Periander,Corinthian sailors,Directed,32,,n,consultation,reporting,1.24,,,1024-05-01
+Croesus,Bias,Directed,33,,n,consultation,consultation,1.27,,,1027-01-01
+Bias,Croesus,Directed,34,,n,consultation,instruction,1.27,,,1027-02-01
+Croesus,Bias,Directed,35,,n,consultation,consultation,1.27,,,1027-03-01
+Bias,Croesus,Directed,36,,n,consultation,instruction,1.27,,,1027-04-01
+Solon,Amasis,Directed,37,,n,consultation,consultation,1.3,,,1030-01-01
+Solon,Croesus,Directed,38,,n,consultation,consultation,1.3,,,1030-02-01
+Croesus,Solon,Directed,39,,n,consultation,consultation,1.3,,,1030-03-01
+Solon,Croesus,Directed,40,,n,consultation,consultation,1.3,,,1030-04-01
+Croesus,Solon,Directed,41,,n,consultation,consultation,1.3,,,1030-05-01
+Solon,Croesus,Directed,42,,n,consultation,consultation,1.3,,,1030-06-01
+Croesus,Solon,Directed,43,,n,consultation,consultation,1.31,,,1031-01-01
+Solon,Croesus,Directed,44,,n,consultation,consultation,1.31,,,1031-02-01
+Croesus,Solon,Directed,45,,n,consultation,consultation,1.31,,,1031-03-01
+Solon,Croesus,Directed,46,,n,consultation,consultation,1.31,,,1031-04-01
+Adrastos,Croesus,Directed,47,,n,negotiation,supplication,1.35,,,1035-01-01
+Croesus,Adrastos,Directed,48,,n,consultation,consultation,1.35,,,1035-02-01
+Adrastos,Croesus,Directed,49,,n,consultation,reporting,1.35,,,1035-03-01
+Croesus,Adrastos,Directed,50,,y,cooperation,cohabitation,1.35,,,1035-04-01
+Atys,Croesus,Directed,51,,n,negotiation,political negotiation,1.37,,,1037-01-01
+Croesus,Atys,Directed,52,,n,negotiation,political negotiation,1.38,,,1038-01-01
+Atys,Croesus,Directed,53,,n,negotiation,political negotiation,1.39,,,1039-01-01
+Croesus,Atys,Directed,54,,n,negotiation,political negotiation,1.4,,,1040-01-01
+Croesus,Adrastos,Directed,55,,y,cooperation,treaty/oath-swearing,1.41,,,1041-01-01
+Adrastos,Croesus,Directed,56,,y,cooperation,treaty/oath-swearing,1.42,,,1042-01-01
+Adrastos,Atys,Directed,57,,n,violence,murder/assassination,1.43,,,1043-01-01
+Adrastos,Croesus,Directed,58,,n,negotiation,treaty/oath-swearing,1.45,,,1045-01-01
+Croesus,Adrastos,Directed,59,,n,cooperation,political transaction,1.45,,,1045-02-01
+Croesus,Pythia,Directed,60,,n,consultation,consultation,1.47,-550,,1047-01-01
+Pythia,Croesus,Directed,61,,n,consultation,instruction,1.47,-550,,1047-02-01
+Alyattes,Pythia,Directed,62,,y,offering,gift-giving,1.25,,,1025-01-01
+Croesus,Pythia,Directed,63,,y,offering,gift-giving,1.5,-550,,1050-01-01
+Croesus,Pythia,Directed,64,,n,consultation,consultation,1.53,-550,,1053-01-01
+Pythia,Croesus,Directed,65,,n,consultation,instruction,1.53,-550,,1053-02-01
+Croesus,Pythia,Directed,66,,n,consultation,consultation,1.55,-550,,1055-01-01
+Pythia,Croesus,Directed,67,,n,consultation,instruction,1.55,-550,,1055-02-01
+Chilon,Hippocrates,Directed,68,,n,consultation,instruction,1.59,,,1059-01-01
+Megakles,Pisistratus,Directed,69,,y,cooperation,marriage alliance,1.6,-556,,1060-01-01
+Pisistratus,Megakles,Directed,70,,y,cooperation,marriage alliance,1.6,-556,,1060-02-01
+Pisistratus,Phye,Directed,71,,y,cooperation,political transaction,1.6,-556,,1060-03-01
+Pisistratus,Daughter of Megakles,Directed,72,,y,cooperation,marriage alliance,1.61,-555,,1061-01-01
+Daughter of Megakles,Wife of Megakles,Directed,73,,y,consultation,reporting,1.61,-555,,1061-02-01
+Wife of Megakles,Megakles,Directed,74,,y,consultation,reporting,1.61,-555,,1061-03-01
+Pisistratus,Hippias,Directed,75,,y,consultation,consultation,1.61,-555,,1061-04-01
+Hippias,Pisistratus,Directed,76,,y,consultation,instruction,1.61,-555,,1061-05-01
+Lygdamis,Pisistratus,Directed,77,,y,cooperation,offensive alliance,1.61,-546,,1061-06-01
+Amphilytos,Pisistratus,Directed,78,,y,consultation,instruction,1.62,-546,,1062-01-01
+Pisistratus,Amphilytos,Directed,79,,y,consultation,consultation,1.63,-546,,1063-01-01
+Pisistratus,Lygdamis,Directed,80,,y,cooperation,political transaction,1.64,-546,,1064-01-01
+Pythia,Lycurgus,Directed,81,,y,consultation,instruction,1.65,,,1065-01-01
+Lycurgus,Leobates,Directed,82,,y,cooperation,political transaction,1.65,,,1065-02-01
+Spartan embassy,Pythia,Directed,83,,n,consultation,consultation,1.67,,,1067-01-01
+Pythia,Spartan embassy,Directed,84,,n,consultation,instruction,1.67,,,1067-02-01
+Tegean blacksmith,Lichas,Directed,85,,n,consultation,reporting,1.67,,,1067-03-01
+Lichas,Tegean blacksmith,Directed,86,,n,negotiation,economic negotiation,1.68,,,1068-01-01
+Sandanis,Croesus,Directed,87,,y,consultation,instruction,1.71,,,1071-01-01
+Band of Scythians,Cyaxares,Directed,88,,y,negotiation,supplication,1.73,,,1073-01-01
+Cyaxares,Band of Scythians,Directed,89,,n,conflict,punishment (non-execution),1.73,,,1073-02-01
+Band of Scythians,Cyaxares,Directed,90,,n,conflict,murder/assassination,1.73,-590,,1073-02-01
+Cyaxares,Alyattes,Directed,91,,n,conflict,threat/ultimatum,1.74,-590,,1074-01-01
+Alyattes,Cyaxares,Directed,92,,n,conflict,political negotiation,1.74,-590,,1074-02-01
+Syennesis,Alyattes,Directed,93,,y,consultation,political negotiation,1.74,-585,,1074-03-01
+Syennesis,Cyaxares,Directed,94,,y,consultation,political negotiation,1.74,-585,,1074-04-01
+Labynetos I,Alyattes,Directed,95,,y,consultation,political negotiation,1.74,-585,,1074-05-01
+Labynetos I,Cyaxares,Directed,96,,y,consultation,political negotiation,1.74,-585,,1074-06-01
+Croesus,Amasis,Directed,97,,y,cooperation,offensive alliance,1.77,-547,,1077-01-01
+Croesus,Labynetos I,Directed,98,,y,cooperation,offensive alliance,1.77,-547,,1077-02-01
+Croesus,Telmessian Seers,Directed,99,,y,consultation,consultation,1.78,-547,,1078-01-01
+Harpagos,Cyrus,Directed,100,,y,consultation,instruction,1.8,-547,,1080-01-01
+Croesus,Pythia,Directed,101,,n,consultation,consultation,1.84,,,1084-01-01
+Pythia,Croesus,Directed,102,,n,consultation,instruction,1.84,,,1084-02-01
+Mute son of Croesus,Persian soldier,Directed,103,,n,negotiation,instruction,1.85,-547,,1085-01-01
+Cyrus,Croesus,Directed,104,,n,consultation,consultation,1.86,-547,,1086-01-01
+Croesus,Cyrus,Directed,105,,n,consultation,reporting,1.86,-547,,1086-02-01
+Cyrus,Croesus,Directed,106,,n,consultation,consultation,1.87,-547,,1087-01-01
+Croesus,Cyrus,Directed,107,,n,consultation,reporting,1.87,-547,,1087-02-01
+Croesus,Cyrus,Directed,108,,y,consultation,instruction,1.88,-547,,1088-01-01
+Cyrus,Croesus,Directed,109,,y,consultation,consultation,1.88,-547,,1088-02-01
+Croesus,Cyrus,Directed,110,,y,consultation,instruction,1.88,-547,,1088-03-01
+Cyrus,Croesus,Directed,111,,y,consultation,consultation,1.88,-547,,1088-04-01
+Croesus,Cyrus,Directed,112,,y,consultation,instruction,1.88,-547,,1088-05-01
+Cyrus,Croesus,Directed,113,,y,consultation,consultation,1.89,-547,,1089-01-01
+Croesus,Cyrus,Directed,114,,y,consultation,instruction,1.89,-547,,1089-02-01
+Cyrus,Croesus,Directed,115,,y,offering,gift-giving,1.9,-547,,1090-01-01
+Croesus,Cyrus,Directed,116,,y,offering,gift-giving,1.9,-547,,1090-02-01
+Cyrus,Croesus,Directed,117,,y,consultation,consultation,1.9,-547,,1090-03-01
+Croesus,Cyrus,Directed,118,,y,consultation,reporting,1.9,-547,,1090-04-01
+Cyrus,Croesus,Directed,119,,y,offering,gift-giving,1.9,-547,,1090-05-01
+Croesus,Pythia,Directed,120,,n,consultation,consultation,1.9,-547,,1090-06-01
+Pythia,Croesus,Directed,121,,n,consultation,consultation,1.91,-547,,1091-01-01
+Croesus,Pantaleon supporter,Directed,122,,n,violence,execution,1.92,,,1092-01-01
+Astyages,Magi dream interpreters,Directed,123,,y,consultation,consultation,1.107,,,1107-01-01
+Astyages,Cambyses I,Directed,124,,y,cooperation,marriage alliance,1.107,,,1107-02-01
+Astyages,Magi dream interpreters,Directed,125,,y,consultation,consultation,1.108,,,1108-01-01
+Astyages,Mandane,Directed,126,,n,conflict,threat/ultimatum,1.108,,,1108-02-01
+Magi dream interpreters,Astyages,Directed,127,,y,consultation,instruction,1.108,,,1108-03-01
+Astyages,Harpagos,Directed,128,,y,cooperation,political transaction,1.108,,,1108-04-01
+Harpagos,Astyages,Directed,129,,y,cooperation,political transaction,1.108,,,1108-05-01
+Harpagos,Wife of Harpagos,Directed,130,,y,consultation,reporting,1.109,,,1109-01-01
+Wife of Harpagos,Harpagos,Directed,131,,y,consultation,consultation,1.109,,,1109-02-01
+Harpagos,Wife of Harpagos,Directed,132,,y,consultation,instruction,1.109,,,1109-03-01
+Harpagos,Mitradates,Directed,133,,y,cooperation,consultation,1.11,,,1110-01-01
+Harpagos,Mitradates,Directed,134,,y,cooperation,instruction,1.11,,,1110-02-01
+Spako,Mitradates,Directed,135,,y,consultation,consultation,1.111,,,1111-01-01
+Mitradates,Spako,Directed,136,,y,consultation,reporting,1.111,,,1111-02-01
+Spako,Mitradates,Directed,137,,y,negotiation,supplication,1.112,,,1112-01-01
+Mitradates,Spako,Directed,138,,y,negotiation,political negotiation,1.112,,,1112-02-01
+Spako,Mitradates,Directed,139,,y,negotiation,instruction,1.112,,,1112-03-01
+Mitradates,Harpagos,Directed,140,,n,cooperation,reporting,1.113,,,1113-01-01
+Cyrus,Son of Artembares,Directed,141,,n,negotiation,political negotiation,1.114,,,1114-01-01
+Son of Artembares,Cyrus,Directed,142,,n,conflict,political negotiation,1.114,,,1114-02-01
+Cyrus,Son of Artembares,Directed,143,,n,violence,punishment (non-execution),1.114,,,1114-03-01
+Son of Artembares,Artembares,Directed,144,,y,consultation,reporting,1.114,,,1114-04-01
+Artembares,Astyages,Directed,145,,y,consultation,consultation,1.114,,,1114-05-01
+Astyages,Mitradates,Directed,146,,n,conflict,punishment (non-execution),1.115,,,1115-01-01
+Astyages,Cyrus,Directed,147,,n,conflict,consultation,1.115,,,1115-02-01
+Cyrus,Astyages,Directed,148,,n,cooperation,reporting,1.115,,,1115-03-01
+Astyages,Artembares,Directed,149,,y,negotiation,political transaction,1.116,,,1116-01-01
+Astyages,Mitradates,Directed,150,,n,negotiation,political negotiation,1.116,,,1116-02-01
+Mitradates,Astyages,Directed,151,,n,negotiation,reporting,1.116,,,1116-03-01
+Astyages,Mitradates,Directed,152,,n,negotiation,threat/ultimatum,1.116,,,1116-04-01
+Mitradates,Astyages,Directed,153,,n,negotiation,supplication,1.116,,,1116-05-01
+Astyages,Harpagos,Directed,154,,n,conflict,consultation,1.117,,,1117-01-01
+Harpagos,Astyages,Directed,155,,n,negotiation,reporting,1.117,,,1117-02-01
+Astyages,Harpagos,Directed,156,,n,negotiation,reporting,1.118,,,1118-01-01
+Harpagos,Astyages,Directed,157,,n,cooperation,supplication,1.119,,,1119-01-01
+Harpagos,Son of Harpagos,Directed,158,,y,cooperation,instruction,1.119,,,1119-02-01
+Harpagos,Wife of Harpagos,Directed,159,,y,cooperation,reporting,1.119,,,1119-03-01
+Astyages,Son of Harpagos,Directed,160,,n,violence,murder/assassination,1.119,,,1119-04-01
+Astyages,Harpagos,Directed,161,,n,consultation,consultation,1.119,,,1119-05-01
+Harpagos,Astyages,Directed,162,,y,cooperation,reporting,1.119,,,1119-06-01
+Astyages,Harpagos,Directed,163,,n,violence,punishment (non-execution),1.119,,,1119-07-01
+Harpagos,Astyages,Directed,164,,n,negotiation,reporting,1.119,,,1119-08-01
+Astyages,Magi dream interpreters,Directed,165,,y,consultation,consultation,1.12,,,1120-01-01
+Magi dream interpreters,Astyages,Directed,166,,y,consultation,consultation,1.12,,,1120-02-01
+Astyages,Magi dream interpreters,Directed,167,,y,consultation,consultation,1.12,,,1120-03-01
+Magi dream interpreters,Astyages,Directed,168,,y,consultation,consultation,1.12,,,1120-04-01
+Astyages,Magi dream interpreters,Directed,169,,y,consultation,consultation,1.12,,,1120-05-01
+Magi dream interpreters,Astyages,Directed,170,,y,consultation,consultation,1.12,,,1120-06-01
+Astyages,Cyrus,Directed,171,,y,negotiation,political transaction,1.121,,,1121-01-01
+Cambyses I,Cyrus,Directed,172,,y,consultation,consultation,1.122,,,1122-01-01
+Cyrus,Cambyses I,Directed,173,,y,consultation,reporting,1.122,,,1122-02-01
+Harpagos,Cyrus,Directed,174,,y,negotiation,gift-giving,1.123,,,1123-01-01
+Harpagos,Cyrus,Directed,175,,y,cooperation,consultation,1.123,,,1123-02-01
+Astyages,Cyrus,Directed,176,,n,conflict,political negotiation,1.127,-550,,1127-01-01
+Cyrus,Astyages,Directed,177,,n,conflict,political negotiation,1.127,-550,,1127-02-01
+Astyages,Magi dream interpreters,Directed,178,,n,violence,execution,1.128,-550,,1128-01-01
+Harpagos,Astyages,Directed,179,,n,conflict,punishment (non-execution),1.129,-550,,1129-01-01
+Astyages,Harpagos,Directed,180,,n,conflict,consultation,1.129,-550,,1129-02-01
+Harpagos,Astyages,Directed,181,,n,conflict,reporting,1.129,-550,,1129-03-01
+Astyages,Harpagos,Directed,182,,n,conflict,consultation,1.129,-550,,1129-04-01
+Ionian and Aeolian embassy,Cyrus,Directed,183,,n,negotiation,surrender,1.141,-546,,1141-01-01
+Cyrus,Ionian and Aeolian embassy,Directed,184,,n,negotiation,political negotiation,1.141,-546,,1141-02-01
+Lakrines,Cyrus,Directed,185,,n,negotiation,threat/ultimatum,1.152,-546,,1152-01-01
+Cyrus,Lakrines,Directed,186,,n,negotiation,political negotiation,1.152,-546,,1152-02-01
+Cyrus,Tabalos,Directed,187,,y,cooperation,political transaction,1.153,-546,,1153-01-01
+Cyrus,Paktyes,Directed,188,,y,cooperation,political transaction,1.153,-546,,1153-02-01
+Paktyes,Tabalos,Directed,189,,n,conflict,warfare,1.154,-545,,1154-01-01
+Cyrus,Croesus,Directed,190,,y,consultation,consultation,1.155,-545,,1155-01-01
+Croesus,Cyrus,Directed,191,,y,consultation,instruction,1.155,-545,,1155-02-01
+Cyrus,Mazares,Directed,192,,y,cooperation,instruction,1.156,-545,,1156-01-01
+Cymaean embassy,Oracle at Branchidai,Directed,193,,n,consultation,consultation,1.158,-545,,1158-01-01
+Oracle at Branchidai,Cymaean embassy,Directed,194,,n,consultation,instruction,1.158,-545,,1158-02-01
+Aristodikos,Oracle at Branchidai,Directed,195,,n,consultation,consultation,1.159,-545,,1159-01-01
+Oracle at Branchidai,Aristodikos,Directed,196,,n,consultation,instruction,1.159,-545,,1159-02-01
+Aristodikos,Oracle at Branchidai,Directed,197,,n,negotiation,political negotiation,1.159,-545,,1159-03-01
+Oracle at Branchidai,Aristodikos,Directed,198,,n,negotiation,threat/ultimatum,1.159,-545,,1159-04-01
+Aristodikos,Oracle at Branchidai,Directed,199,,n,consultation,consultation,1.159,-545,,1159-05-01
+Oracle at Branchidai,Aristodikos,Directed,200,,n,consultation,instruction,1.159,-545,,1159-06-01
+Cnidian embassy,Pythia,Directed,201,,n,consultation,consultation,1.174,,,1174-01-01
+Pythia,Cnidian embassy,Directed,202,,n,consultation,instruction,1.174,,,1174-02-01
+Cyrus,Labynetos II,Directed,203,,n,conflict,warfare,1.188,-539,,1188-01-01
+Cyrus,Tomyris,Directed,204,,n,negotiation,marriage alliance,1.205,-530,,1205-01-01
+Tomyris,Cyrus,Directed,205,,n,negotiation,political negotiation,1.205,-530,,1205-02-01
+Tomyris,Cyrus,Directed,206,,n,conflict,instruction,1.206,-530,,1206-01-01
+Croesus,Cyrus,Directed,207,,y,consultation,instruction,1.207,-530,,1207-01-01
+Cyrus,Tomyris,Directed,208,,n,conflict,instruction,1.207,-530,,1207-02-01
+Cyrus,Croesus,Directed,209,,y,cooperation,instruction,1.208,-530,,1208-01-01
+Cyrus,Cambyses II,Directed,210,,y,cooperation,instruction,1.208,-530,,1208-02-01
+Cyrus,Hystaspes,Directed,211,,n,negotiation,political negotiation,1.209,-530,,1209-01-01
+Hystaspes,Cyrus,Directed,212,,y,cooperation,political transaction,1.21,-530,,1210-01-01
+Tomyris,Cyrus,Directed,213,,n,conflict,threat/ultimatum,1.212,-530,,1212-01-01
+Spargapises,Cyrus,Directed,214,,n,negotiation,supplication,1.213,-530,,1213-01-01
+Cyrus,Spargapises,Directed,215,,n,negotiation,political transaction,1.213,-530,,1213-02-01
+Tomyris,Cyrus,Directed,216,,n,violence,punishment (non-execution),1.214,-530,,1214-01-01
