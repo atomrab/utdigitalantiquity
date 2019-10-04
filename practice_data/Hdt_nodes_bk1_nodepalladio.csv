@@ -1,0 +1,77 @@
+Node,ID,Label,Place,Latitude,Longitude,Gender,FloruitStartDate,FloruitEndDate,FirstMention,Lat_lon,Ethnicity,Greek_yn
+Io,2,Io,Argos,37.631561,22.719464,Female,,,1.1,"37.631561, 22.719464",Greek,1
+Europa,3,Europa,Tyre,33.268071,35.209358,Female,,,1.2,"33.268071, 35.209358",Phoenician,0
+Medea,4,Medea,Colchis,42.5,42.5,Female,,,1.2,"42.5, 42.5",Colchian,0
+Alexandros,5,Alexandros,Ilion,39.9575,26.238889,Male,,,1.3,"39.9575, 26.238889",Trojan,0
+Helen,6,Helen,Sparta,37.082132,22.42366,Female,,,1.3,"37.082132, 22.42366",Greek,1
+Croesus,7,Croesus,Sardis,38.488314,28.040286,Male,-560,-547,1.6,"38.488314, 28.040286",Lydian,0
+Alyattes,8,Alyattes,Sardis,38.488314,28.040286,Male,-617,-560,1.6,"38.488314, 28.040286",Lydian,0
+Candaules,9,Candaules,Sardis,38.488314,28.040286,Male,-716,-680,1.7,"38.488314, 28.040286",Lydian,0
+Gyges,10,Gyges,Sardis,38.488314,28.040286,Male,-700,-645,1.8,"38.488314, 28.040286",Lydian,0
+Wife of Candaules,11,Wife of Candaules,Sardis,38.488314,28.040286,Female,-700,-650,1.8,"38.488314, 28.040286",Lydian,0
+Ardys,12,Ardys,Sardis,38.488314,28.040286,Male,-645,-629,1.15,"38.488314, 28.040286",Lydian,0
+Cyaxares,25,Cyaxares,Ecbatana,34.799294,48.512209,Male,-624,-585,1.16,"34.799294, 48.512209",Median,0
+Pythia,14,Pythia,Delphi,38.482289,22.501169,Female,,,1.19,"38.482289, 22.501169",Greek,1
+Periander,15,Periander,Corinth,37.906033,22.879189,Male,-627,-587,1.2,"37.906033, 22.879189",Greek,1
+Thrasybulus,16,Thrasybulus,Miletus,37.5292362,27.2774885,Male,-610,-590,1.2,"37.5292362, 27.2774885",Greek,1
+Lydian herald,17,Lydian herald,Sardis,38.488314,28.040286,Male,,,1.21,"38.488314, 28.040286",Lydian,0
+Arion,18,Arion,Methymna,39.367381,26.185727,Male,,,1.23,"39.367381, 26.185727",Greek,1
+Bias,19,Bias,Priene,37.66,27.298333,Male,,,1.27,"37.66, 27.298333",Greek,1
+Solon,20,Solon,Athens,37.971687,23.726464,Male,-620,-580,1.29,"37.971687, 23.726464",Greek,1
+Amasis,21,Amasis,Egypt,30.93050082,31.08032227,Male,-570,-526,1.3,"30.9305008176078, 31.080322265625",Egyptian,0
+Atys,22,Atys,Sardis,38.488314,28.040286,Male,,,1.34,"38.488314, 28.040286",Lydian,0
+Adrastos,23,Adrastos,Gordion,39.650103,31.97857,Male,,,1.35,"39.650103, 31.97857",Phrygian,0
+Cyrus,24,Cyrus,Ecbatana,34.799294,48.512209,Male,-559,-530,1.46,"32.1887935, 48.2537285",Persian,0
+Corinthian sailors,26,Corinthian sailors,Corinth,37.906033,22.879189,Male,,,1.24,"37.906033, 22.879189",Greek,1
+Phoenician captain,27,Phoenician captain,Tyre,33.268071,35.209358,Male,,,1.1,"33.268071, 35.209358",Phoenician,0
+Cretan captain,28,Cretan captain,Crete,35.297847,25.163106,Male,,,1.2,"35.297847, 25.163106",Greek,1
+Greek captain,29,Greek captain,Iolkos,39.366305,22.96886,Male,,,1.2,"39.366305, 22.96886",Greek,1
+Midas,30,Midas,Gordion,39.650103,31.97857,Male,,,1.14,"39.650103, 31.97857",Phrygian,0
+Chilon,31,Chilon,Sparta,37.082132,22.42366,Male,,,1.59,"37.082132, 22.42366",Greek,1
+Hippocrates,32,Hippocrates,Athens,37.971687,23.726464,Male,,,1.59,"37.971687, 23.726464",Greek,1
+Megakles,33,Megakles,Athens,37.971687,23.726464,Male,,,1.6,"37.971687, 23.726464",Greek,1
+Pisistratus,34,Pisistratus,Athens,37.971687,23.726464,Male,-570,-528,1.6,"37.971687, 23.726464",Greek,1
+Phye,35,Phye,Athens,37.971687,23.726464,Female,,,1.6,"37.971687, 23.726464",Greek,1
+Daughter of Megakles,36,Daughter of Megakles,Athens,37.971687,23.726464,Female,,,1.61,"37.971687, 23.726464",Greek,1
+Wife of Megakles,37,Wife of Megakles,Athens,37.971687,23.726464,Female,,,1.61,"37.971687, 23.726464",Greek,1
+Hippias,38,Hippias,Athens,37.971687,23.726464,Male,-540,-500,1.61,"37.971687, 23.726464",Greek,1
+Lygdamis,39,Lygdamis,Naxos,37.05,25.49,Male,,,1.61,"37.05, 25.49",Greek,1
+Amphilytos,40,Amphilytos,Acarnania,38.6719117,21.31951465,Male,,,1.62,"38.6719117, 21.31951465",Greek,1
+Lycurgus,41,Lycurgus,Sparta,37.082132,22.42366,Male,,,1.65,"37.082132, 22.42366",Greek,1
+Leobates,42,Leobates,Sparta,37.082132,22.42366,Male,,,1.65,"37.082132, 22.42366",Greek,1
+Spartan embassy,43,Spartan ambassador,Sparta,37.082132,22.42366,Male,,,1.67,"37.082132, 22.42366",Greek,1
+Lichas,44,Lichas,Sparta,37.082132,22.42366,Male,,,1.67,"37.082132, 22.42366",Greek,1
+Tegean blacksmith,45,Tegean blacksmith,Tegea,37.455301,22.420672,Male,,,1.67,"37.455301, 22.420672",Greek,1
+Sandanis,46,Sandanis,Sardis,38.488314,28.040286,Male,,,1.71,"38.488314, 28.040286",Lydian,0
+Band of Scythians,47,Band of Scythians,Scythia,47.5,27.5,Male,,,1.73,"47.5, 27.5",Scythian,0
+Syennesis,48,Syennesis,Cilicia,37.5,32.5,Male,,,1.74,"37.5, 32.5",Cilician,0
+Labynetos I,49,Labynetos I,Babylon,32.543333,44.422222,Male,,,1.74,"32.543333, 44.422222",Babylonian,0
+Telmessian Seers,50,Telmessian Seers,Telmessos,36.620899,29.105772,Male,,,1.78,"36.620899, 29.105772",Lycian,0
+Harpagos,51,Harpagos,Ecbatana,34.799294,48.512209,Male,-574,-534,1.8,"34.799294, 48.512209",Median,0
+Mute son of Croesus,52,Croesus' mute son,Sardis,38.488314,28.040286,Male,,,1.34,"38.488314, 28.040286",Lydian,0
+Persian soldier,53,Persian soldier,Persia,32.1887935,48.2537285,Male,,,1.85,"32.1887935, 48.2537285",Persian,0
+Pantaleon supporter,54,Pantaleon supporter,Sardis,38.488314,28.040286,Male,,,1.92,"38.488314, 28.040286",Lydian,0
+Magi dream interpreters,55,Magi dream interpreters,Ecbatana,34.799294,48.512209,Male,,,1.107,"34.799294, 48.512209",Median,0
+Cambyses I,56,Cambyses I,Persia,32.1887935,48.2537285,Male,,,1.108,"32.1887935, 48.2537285",Persian,0
+Mandane,57,Mandane,Ecbatana,34.799294,48.512209,Female,,,1.108,"34.799294, 48.512209",Median,0
+Wife of Harpagos,58,Harpagos' wife,Ecbatana,34.799294,48.512209,Female,,,1.109,"34.799294, 48.512209",Median,0
+Mitradates,59,Mitradates,Ecbatana,34.799294,48.512209,Male,,,1.109,"34.799294, 48.512209",Median,0
+Spako,60,Spako,Ecbatana,34.799294,48.512209,Female,,,1.109,"34.799294, 48.512209",Median,0
+Artembares,61,Artembares,Ecbatana,34.799294,48.512209,Male,,,1.114,"34.799294, 48.512209",Median,0
+Son of Artembares,62,Son of Artembares,Ecbatana,34.799294,48.512209,Male,,,1.114,"34.799294, 48.512209",Median,0
+Son of Harpagos,63,Son of Harpagos,Ecbatana,34.799294,48.512209,Male,,,1.118,"34.799294, 48.512209",Median,0
+Ionian and Aeolian embassy,64,Ionian and Aeolian embassy,Ionia,38.0909935,26.9890005,Male,,,1.141,"38.0909935, 26.9890005",Greek,1
+Lakrines,66,Lakrines,Sparta,37.082132,22.42366,Male,,,1.152,"37.082132, 22.42366",Greek,1
+Tabalos,67,Tabalos,Persia,32.1887935,48.2537285,Male,,,1.153,"32.1887935, 48.2537285",Persian,0
+Paktyes,68,Paktyes,Sardis,38.488314,28.040286,Male,,,1.153,"38.488314, 28.040286",Lydian,0
+Mazares,69,Mazares,Ecbatana,34.799294,48.512209,Male,,,1.156,"34.799294, 48.512209",Median,0
+Cymaean embassy,70,Cymaean embassy,Cyme,38.75953,26.936283,Male,,,1.158,"38.75953, 26.936283",Greek,1
+Oracle at Branchidai,71,Oracle at Branchidai,Didyma,37.384829,27.256115,Male,,,1.158,"37.384829, 27.256115",Greek,1
+Aristodikos,72,Aristodikos,Cyme,38.75953,26.936283,Male,,,1.158,"38.75953, 26.936283",Greek,1
+Cnidian embassy,73,Cnidian embassy,Cnidus,36.686188,27.37404,Male,,,1.174,"36.686188, 27.37404",Greek,1
+Labynetos II,74,Labynetos II,Babylon,32.543333,44.422222,Male,,,1.188,"32.543333, 44.422222",Babylonian,0
+Tomyris,75,Tomyris,Massagetai,37.5,62.5,Female,,,1.205,"37.5, 62.5",Massagetan,0
+Cambyses II,76,Cambyses II,Ecbatana,34.799294,48.512209,Male,,,1.208,"34.799294, 48.512209",Persian,0
+Hystaspes,77,Hystaspes,Persia,32.1887935,48.2537285,Male,,,1.209,"32.1887935, 48.2537285",Persian,0
+Spargapises,78,Spargapises,Massagetai,37.5,62.5,Male,,,1.212,"37.5, 62.5",Massagetan,0
+Astyages,79,Astyages,Ecbatana,34.799294,48.512209,Male,,,1.46,"34.799294, 48.512209",Median,0
