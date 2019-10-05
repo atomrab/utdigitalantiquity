@@ -45,6 +45,11 @@
 
 #### Time
 #### People
+
+[Digital Prosopography of the Roman Republic](http://romanrepublic.ac.uk/)
+
+[Prosopographia Imperii Romani](http://pir.bbaw.de/)
+
 #### Data visualization
 #### Data management
 #### Archaeology
