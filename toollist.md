@@ -1,6 +1,3 @@
----
-layout: default
----
 ### List of Tools for Digital Approaches to Antiquity
 
 #### Text
