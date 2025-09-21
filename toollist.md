@@ -61,6 +61,6 @@
 
 [Google Earth Engine](https://earthengine.google.com/)
 
-[The Ancient Graffiti Project] (https://ancientgraffiti.org/Graffiti/)
+[The Ancient Graffiti Project](https://ancientgraffiti.org/Graffiti/)
 
 #### Philology
