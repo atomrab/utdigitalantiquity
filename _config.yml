@@ -1,9 +1,7 @@
 name: UT Digital Antiquity
 markdown: kramdown
 theme: jekyll-theme-cayman
-# _config.yml
 defaults:
-  # All pages get the "page" layout
   - scope:
       path: ""          # empty = site root and below
       type: "pages"     # applies to regular pages (not posts)
