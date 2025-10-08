@@ -30,7 +30,7 @@ What a lot of Digital Humanities reflection and criticism seems to be converging
 ### Readings
 1. For this session, please browse the recent open-access textbook *Introduction to Digital Humanism*, H. Werthner, C. Ghezzi, J. Kramer, J. Nida-Rümelin, B. Nuseibeh, E. Prem., A. Stanger, eds. (Cham: Springer, 2024), [https://library.oapen.org/handle/20.500.12657/87619](https://library.oapen.org/handle/20.500.12657/87619). In addition to browsing, be sure to read the chapter by Heitzinger and Woltran, “A short introduction to artificial intelligence: methods, success stories, and current limitations”, pp. 135-149.
 
-## Week 4 (September 17): Does a humanist need to code? Guest speaker: Lars Hinrichs, English and Linguistics
+## Week 4: Does a humanist need to code? Guest speaker: Lars Hinrichs, English and Linguistics
 If AI can write your code for you, do you need to know how to do it?
 
 ### Readings
@@ -51,3 +51,24 @@ If AI can write your code for you, do you need to know how to do it?
 - [Big Book of R](https://www.bigbookofr.com/)
 - [How to do archaeological science using R](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/) (Ben Marwick)
 - Lars Hinrich's [R mapping tutorial](https://capable-starburst-55b62f.netlify.app/) (the one we did in class)
+
+## Week 5: Digital initiatives, museums, and funding. Guest speaker: Koven Smith, lately of the Knight Foundation
+Digital projects in the museum world: lifecycles, funding, and challenges
+
+### Readings:
+1. [Gill, S. (Sam) S. 2023. “Why Foundations? The Theory and Strategy of the General-Purpose Foundation.” The Foundation Review 15 (4). doi:10.9707/1944-5660.1680.](https://scholarworks.gvsu.edu/tfr/vol15/iss4/11) (suggested by Koven)
+2. [Nikolaou, P. 2024. “Museums and the Post-Digital: Revisiting Challenges in the Digital Transformation of Museums.” Heritage 7 (3):1784–800. doi:10.3390/heritage7030084](https://doi.org/10.3390/heritage7030084)
+3. [Terras, M. 2022. “Digital Humanities and Digitised Cultural Heritage.” In The Bloomsbury Handbook to the Digital Humanities, 255–66. Bloomsbury. doi:10.5040/9781350232143.ch-24.](https://www.research.ed.ac.uk/en/publications/digital-humanities-and-digitised-cultural-heritage)
+4. [Galeazzi, F., P.D.G.D. Franco, and J.L. Matthews. 2015. “Comparing 2D Pictures with 3D Replicas for the Digital Preservation and Analysis of Tangible Heritage.” Museum Management and Curatorship 30 (5):462–83. doi:10.1080/09647775.2015.1042515](https://doi.org/10.1080/09647775.2015.1042515)
+
+And, if you have time, these might be of further interest (we'll come back to some of the concepts in Cook 2019):
+
+1. [Biedermann, B. 2021. “Virtual Museums as an Extended Museum Experience: Challenges and Impacts for Museology, Digital Humanities, Museums and Visitors – in Times of (Coronavirus) Crisis.” Digital Humanities Quarterly 015 (3).](https://dhq.digitalhumanities.org/vol/15/3/000568/000568.html)
+2. [Cook, S. 2019. “The Uses of Wikidata for Galleries, Libraries, Archives and Museums and Its Place in the Digital Humanities.” Comma 2017 (2):117–24. doi:10.3828/comma.2017.2.12](https://doi.org/10.3828/comma.2017.2.12)
+
+*Resources:*
+- [Guide to APIs from Zoe LeBlanc's Computing in the Humanities Course at UIUC](https://cultureasdata-uiuc.github.io/is310-fall-2024/materials/creating-curating-humanities-data/06-getting-data-apis)
+- [Met Museum API documentation](https://github.com/metmuseum/openaccess)
+- [Getty Museum API documentation](https://data.getty.edu/)
+- [Mia Ridge's list of cultural heritage institution APIs](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs) (soon to move to Wikidata)
+- [UK Museum Data Service](https://museumdata.uk/)
