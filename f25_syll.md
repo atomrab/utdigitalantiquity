@@ -7,6 +7,8 @@ title: List of readings
 
 # List of readings by date for Fall 2025 iteration of "Digital Approaches to Classical Antiquity"
 
+see also [our course Zotero library](https://www.zotero.org/groups/2362535/digital_approaches_to_classical_antiquity) for a more complete set of references
+
 ## Week 2: What is/are Digital Humanities, anyway?
 
 1. [Brennan, Timothy. 2017. “The digital humanities bust”. *The Chronicle of Higher Education*, https://www.chronicle.com/article/The-Digital-Humanities-Bust/241424](https://www.chronicle.com/article/The-Digital-Humanities-Bust/241424)
