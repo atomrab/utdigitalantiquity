@@ -9,7 +9,7 @@ title: List of readings
 
 ## Week 2: What is/are Digital Humanities, anyway?
 
-1. Brennan, Timothy. 2017. “The digital humanities bust”. The Chronicle of Higher Education, [(https://www.chronicle.com/article/The-Digital-Humanities-Bust/241424](https://www.chronicle.com/article/The-Digital-Humanities-Bust/241424)
+1. Brennan, Timothy. 2017. “The digital humanities bust”. The Chronicle of Higher Education, [https://www.chronicle.com/article/The-Digital-Humanities-Bust/241424](https://www.chronicle.com/article/The-Digital-Humanities-Bust/241424)
 2. [Busa, Roberto. 1980. “The Annals of Humanities Computing: The Index Thomisticus.” Computers and the Humanities 14: 83-90.](https://www.jstor.org/stable/30207304)
 3. Gold, M.K., and L.F. Klein. 2023. “Introduction: The Digital Humanities, Moment to Moment.” In Debates in the Digital Humanities 2023, edited by Matthew K. Gold and Lauren F. Klein, ix–xvi. University of Minnesota Press. [https://www.jstor.org/stable/10.5749/j.ctv345pd4p.3](https://www.jstor.org/stable/10.5749/j.ctv345pd4p.3)
 4. [Kirschenbaum, M. 2014. “What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things about It?” differences 25.1: 46-63.](https://doi-org.ezproxy.lib.utexas.edu/10.1215/10407391-2419997)
