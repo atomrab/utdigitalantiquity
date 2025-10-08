@@ -72,3 +72,6 @@ And, if you have time, these might be of further interest (we'll come back to so
 - [Getty Museum API documentation](https://data.getty.edu/)
 - [Mia Ridge's list of cultural heritage institution APIs](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs) (soon to move to Wikidata)
 - [UK Museum Data Service](https://museumdata.uk/)
+
+## Week 6: Digital pedagogy and working with students. Guest speaker: Jessa Dahl, Director, UT’s Japan Lab
+Digital projects in the museum world: lifecycles, funding, and challenges
