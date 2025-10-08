@@ -1,6 +1,8 @@
 ---
-title: List of Readings
+
 layout: page
+title: list of readings
+
 ---
 
 # List of readings by date for Fall 2025 iteration of "Digital Approaches to Classical Antiquity"
