@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: list of readings
+title: List of readings
 
 ---
 
