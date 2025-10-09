@@ -74,4 +74,3 @@ And, if you have time, these might be of further interest (we'll come back to so
 - [UK Museum Data Service](https://museumdata.uk/)
 
 ## Week 6: Digital pedagogy and working with students. Guest speaker: Jessa Dahl, Director, UT’s Japan Lab
-Digital projects in the museum world: lifecycles, funding, and challenges
