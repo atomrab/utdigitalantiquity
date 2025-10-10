@@ -30,7 +30,7 @@ What a lot of Digital Humanities reflection and criticism seems to be converging
 ### Readings
 1. For this session, please browse the recent open-access textbook *Introduction to Digital Humanism*, H. Werthner, C. Ghezzi, J. Kramer, J. Nida-Rümelin, B. Nuseibeh, E. Prem., A. Stanger, eds. (Cham: Springer, 2024), [https://library.oapen.org/handle/20.500.12657/87619](https://library.oapen.org/handle/20.500.12657/87619). In addition to browsing, be sure to read the chapter by Heitzinger and Woltran, “A short introduction to artificial intelligence: methods, success stories, and current limitations”, pp. 135-149.
 
-## Week 4: Does a humanist need to code? Guest speaker: Lars Hinrichs, English and Linguistics
+## Week 4: Does a humanist need to code? Guest speaker: Dr. Lars Hinrichs, English and Linguistics
 If AI can write your code for you, do you need to know how to do it?
 
 ### Readings
@@ -73,7 +73,7 @@ And, if you have time, these might be of further interest (we'll come back to so
 - [Mia Ridge's list of cultural heritage institution APIs](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs) (soon to move to Wikidata)
 - [UK Museum Data Service](https://museumdata.uk/)
 
-## Week 6: Digital pedagogy and working with students. Guest speaker: Jessa Dahl, Director, UT’s Japan Lab
+## Week 6: Digital pedagogy and working with students. Guest speaker: Dr. Jessa Dahl, Director, UT’s Japan Lab
 What can you realistically do with undergraduates in a semester?
 
 ### Readings
@@ -125,5 +125,22 @@ What do you do once you’ve reduced information to data?
 5. [Hagmann, D. (2024). Adopt, Adapt, and Share! FAIR Archeological Data for Studying Roman Rural Landscapes in Northern Noricum. *Journal of Open Humanities Data*, 10(1), 13.](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.129)
 6. [Laguna-Palma, D., & Barruezo-Vaquero, P. (2024). Advancing the LOUD+FAIR Data Principles in Eastern Mediterranean Archaeological Research: Insights from the PERAIA Project. *Advances in Archaeological Practice*, 12(4), 359–374. doi:10.1017/aap.2024.16](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/advancing-the-loudfair-data-principles-in-eastern-mediterranean-archaeological-research-insights-from-the-peraia-project/13B966F3F421221A6EFC41FED32EA342)
 
-Optional Reading (if you want some continuation from Matt's discussion last week)
+*Optional Reading (if you want some continuation from Matt's discussion last week)*
 1. [Matthieu Quantin, Sarah Tournon, Valentin Grimaud, Florent Laroche, and Xavier Granier. 2023. Combining FAIR principles and long-term archival of 3D data. In Proceedings of the 28th International ACM Conference on 3D Web Technology (Web3D '23). Association for Computing Machinery, New York, NY, USA, Article 16, 1–6.](https://doi.org/10.1145/3611314.3615913)
+
+## Week 9 (October 22): Digital numismatics, epigraphy, and history. Guest speakers: Dr. Alex Walthall and Dr. Naomi Campa
+Ancient evidence that lends itself to datification
+
+## Week 10 (October 29): Student presentations – digital project archaeology/autopsy
+What makes a project survive? What happens when a project dies?
+
+## Week 11 (November 5): AI, deep learning, and geospatial data. Guest speaker: Dr. Leila Character, Texas A&M
+What does a computer see, and can it help us to see things we otherwise wouldn’t?
+
+## Week 12 (November 12): Computational photography workshop 
+No readings or discussion: we’ll spend the whole session working on computational photography capture and processing (photogrammetry and RTI), using items from the UT Classics collection
+
+## Week 13 (November 19): Digital approaches to ancient art
+
+## Week 14 (December 3): Concluding discussion and digital project hackathon
+
