@@ -55,7 +55,7 @@ If AI can write your code for you, do you need to know how to do it?
 ## Week 5: Digital initiatives, museums, and funding. Guest speaker: Koven Smith, lately of the Knight Foundation
 Digital projects in the museum world: lifecycles, funding, and challenges
 
-### Readings:
+### Readings
 1. [Gill, S. (Sam) S. 2023. “Why Foundations? The Theory and Strategy of the General-Purpose Foundation.” The Foundation Review 15 (4). doi:10.9707/1944-5660.1680.](https://scholarworks.gvsu.edu/tfr/vol15/iss4/11) (suggested by Koven)
 2. [Nikolaou, P. 2024. “Museums and the Post-Digital: Revisiting Challenges in the Digital Transformation of Museums.” Heritage 7 (3):1784–800. doi:10.3390/heritage7030084](https://doi.org/10.3390/heritage7030084)
 3. [Terras, M. 2022. “Digital Humanities and Digitised Cultural Heritage.” In The Bloomsbury Handbook to the Digital Humanities, 255–66. Bloomsbury. doi:10.5040/9781350232143.ch-24.](https://www.research.ed.ac.uk/en/publications/digital-humanities-and-digitised-cultural-heritage)
@@ -74,3 +74,61 @@ And, if you have time, these might be of further interest (we'll come back to so
 - [UK Museum Data Service](https://museumdata.uk/)
 
 ## Week 6: Digital pedagogy and working with students. Guest speaker: Jessa Dahl, Director, UT’s Japan Lab
+What can you realistically do with undergraduates in a semester?
+
+### Readings
+Students were asked by Dr. Dahl to spend an hour playing one of the following games:
+- [Ready, Set, Yokohama!](https://www.utjapanlab.com/ready-set-yokohama): A digitization and translation of an 1872 board game about racing from Tokyo to Yokohama and back again. (Played in a web browser)
+- [Censor's Desk](https://www.utjapanlab.com/censor): A game about censorship in modern Japan that puts the player in the position of the censor, judging real works of modern Japanese literature. (Played in a web browser)
+- [Palace of Poetry](https://www.utjapanlab.com/palace): A visual novel that puts the player amidst the cast of the classic novel The Tale of Genji (c. 1000), introducing facets of classical Japanese culture, history, gender roles, and day-to-day life. (Played via a download)
+
+### Readings for student-led discussion #2: DH and Digital Pedagogy
+[STUDENT TO PROVIDE]
+
+*Resources:*
+O’Donnell, C. 2014. *Developer’s Dilemma: The Secret World of Videogame Creators*. Inside technology. Cambridge, Massachusetts: MIT Press. (available online via UT Libraries)
+
+*Tools:*
+- [Twine](https://twinery.org/) (text-based interactive games)
+- [Unity](https://unity.com/games) (3D game engine)
+- [Godot Game Engine](https://godotengine.org/) (3D game engine, lower bar for entry than Unity)
+- [Ren'py](https://www.renpy.org/) (visual novel platform)
+- [Audacity](https://www.audacityteam.org/) (audio recording, editing, mixing)
+- [Aseprite](https://www.aseprite.org/) (pixel art and animation)
+
+## Week 7: Virtual reconstructions, 3D modeling, metadata, paradata, and uncertainty. Guest speaker: Michael Neylan, PhD candidate, Monash University
+3D environments and our perception of truth
+
+### Readings
+1. Rabinowitz, A. 2019. “Communicating in Three Dimensions: Questions of Audience and Reuse in 3D Excavation Documentation Practice.” Studies in Digital Heritage 3 (1):100–16. [https://doi.org/10.14434/sdh.v3i1.25386](https://doi.org/10.14434/sdh.v3i1.25386)
+2. Börjesson, L., O. Sköld, and I. Huvila. 2020. “Paradata in Documentation Standards and Recommendations for Digital Archaeological Visualisations.” Digital Culture and Society 6 (2):191–220. doi:https://doi.org/10.14361/dcs-2020-0210. [(pdf)](https://mediarep.org/bitstreams/94318cd9-b59e-4c3f-b966-fdf20c81890b/download)
+3. [The London Charter (2.1, 2009)](https://londoncharter.org/)
+4. [The ICOMOS Seville Principles (2017)](https://icomos.es/wp-content/uploads/2020/06/Seville-Principles-IN-ES-FR.pdf)
+
+### Readings for student-led discussion #3: VR, AR, 3D: documentation and ethics
+[STUDENT TO PROVIDE]
+
+*Tools:*
+- [Meshlab](https://www.meshlab.net/)
+- [Blender](https://www.blender.org/)
+- Autodesk 3ds Max and Maya [(educational license info)](https://www.autodesk.com/support/account/education/students-educators/overview)
+- CHI's [Digital Lab Notebook](https://culturalheritageimaging.org/Technologies/Digital_Lab_Notebook/) (for metadata and paradata creation)
+
+### Week 8 (October 15): Data and more data. Guest speaker: Michael Shensky, UT Libraries
+What do you do once you’ve reduced information to data?
+
+### Week 9 (October 22): Texts and objects with texts on them -- digital numismatics, epigraphy, and history. Guest speakers: Dr. Alex Walthall and Dr. Naomi Campa
+Ancient evidence that lends itself to datification
+
+### Week 10 (October 29): Student presentations – digital project archaeology/autopsy
+What makes a project survive? What happens when a project dies?
+
+### Week 11 (November 5): AI, deep learning, and geospatial data. Guest speaker: Leila Character, Texas A&M
+What does a computer see, and can it help us to see things we otherwise wouldn’t?
+
+### Week 12 (November 12): Computational photography workshop
+
+### Week 13 (November 19): Digital approaches to ancient art
+
+### Week 14 (December 3): Concluding discussion and digital project hackathon
+ 
