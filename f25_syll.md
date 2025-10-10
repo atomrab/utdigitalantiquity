@@ -114,21 +114,21 @@ O’Donnell, C. 2014. *Developer’s Dilemma: The Secret World of Videogame Crea
 - Autodesk 3ds Max and Maya [(educational license info)](https://www.autodesk.com/support/account/education/students-educators/overview)
 - CHI's [Digital Lab Notebook](https://culturalheritageimaging.org/Technologies/Digital_Lab_Notebook/) (for metadata and paradata creation)
 
-### Week 8 (October 15): Data and more data. Guest speaker: Michael Shensky, UT Libraries
+## Week 8 (October 15): Data and more data. Guest speaker: Michael Shensky, UT Libraries
 What do you do once you’ve reduced information to data?
 
-### Week 9 (October 22): Texts and objects with texts on them -- digital numismatics, epigraphy, and history. Guest speakers: Dr. Alex Walthall and Dr. Naomi Campa
+## Week 9 (October 22): Texts and objects with texts on them -- digital numismatics, epigraphy, and history. Guest speakers: Dr. Alex Walthall and Dr. Naomi Campa
 Ancient evidence that lends itself to datification
 
-### Week 10 (October 29): Student presentations – digital project archaeology/autopsy
+## Week 10 (October 29): Student presentations – digital project archaeology/autopsy
 What makes a project survive? What happens when a project dies?
 
-### Week 11 (November 5): AI, deep learning, and geospatial data. Guest speaker: Leila Character, Texas A&M
+## Week 11 (November 5): AI, deep learning, and geospatial data. Guest speaker: Leila Character, Texas A&M
 What does a computer see, and can it help us to see things we otherwise wouldn’t?
 
-### Week 12 (November 12): Computational photography workshop
+## Week 12 (November 12): Computational photography workshop
 
-### Week 13 (November 19): Digital approaches to ancient art
+## Week 13 (November 19): Digital approaches to ancient art
 
-### Week 14 (December 3): Concluding discussion and digital project hackathon
+## Week 14 (December 3): Concluding discussion and digital project hackathon
  
