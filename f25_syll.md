@@ -72,3 +72,17 @@ And, if you have time, these might be of further interest (we'll come back to so
 - [Getty Museum API documentation](https://data.getty.edu/)
 - [Mia Ridge's list of cultural heritage institution APIs](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs) (soon to move to Wikidata)
 - [UK Museum Data Service](https://museumdata.uk/)
+
+## **Week 8: Data, data, and more data. Guest Speaker: Michael Shensky, UT Libraries, and our own Prof. Naomi Campa**
+What do you do once you’ve reduced information to data?
+
+### **Readings**
+1. [Carroll, S. R., Garba, I., Figueroa-Rodríguez, O. L., Holbrook, J., Lovett, R., Materechera, S., … Hudson, M. (2020). The CARE Principles for Indigenous Data Governance. *Data Science Journal*, 19.1, 43.](https://datascience.codata.org/articles/dsj-2020-043)
+2. [Lien-Talks, A. (2024). How FAIR Is Bioarchaeological Data: With a Particular Emphasis on Making Archaeological Science Data Reusable. *Journal of Computer Applications in Archaeology*, 7(1), 246+.](http://dx.doi.org/10.5334/jcaa.154)
+3. [Carroll, S.R., Herczog, E., Hudson, M. et al. Operationalizing the CARE and FAIR Principles for Indigenous data futures. *Sci Data* 8, 108 (2021).](https://www.nature.com/articles/s41597-021-00892-0.pdf)
+4. [Larsson, Å.M., Bornsäter, B. & Hacke, M. Developing practices for FAIR and linked data in Heritage Science. *npj Herit. Sci.* 13, 53 (2025).](https://doi.org/10.1038/s40494-025-01598-x)
+5. [Hagmann, D. (2024). Adopt, Adapt, and Share! FAIR Archeological Data for Studying Roman Rural Landscapes in Northern Noricum. *Journal of Open Humanities Data*, 10(1), 13.](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.129)
+6. [Laguna-Palma, D., & Barruezo-Vaquero, P. (2024). Advancing the LOUD+FAIR Data Principles in Eastern Mediterranean Archaeological Research: Insights from the PERAIA Project. *Advances in Archaeological Practice*, 12(4), 359–374. doi:10.1017/aap.2024.16](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/advancing-the-loudfair-data-principles-in-eastern-mediterranean-archaeological-research-insights-from-the-peraia-project/13B966F3F421221A6EFC41FED32EA342)
+
+Optional Reading (if you want some continuation from Matt's discussion last week)
+1. [Matthieu Quantin, Sarah Tournon, Valentin Grimaud, Florent Laroche, and Xavier Granier. 2023. Combining FAIR principles and long-term archival of 3D data. In Proceedings of the 28th International ACM Conference on 3D Web Technology (Web3D '23). Association for Computing Machinery, New York, NY, USA, Article 16, 1–6.](https://doi.org/10.1145/3611314.3615913)
