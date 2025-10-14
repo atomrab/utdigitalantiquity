@@ -142,6 +142,10 @@ What do you do once you’ve reduced information to data?
 - [Pelagios Network](https://pelagios.org/)
 - [Getty Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/)
 - [kerameikos.org](https://kerameikos.org/)
+- [Thomas Padilla's OpenRefine tutorial](https://thomaspadilla.org/dataprep/)
+- [The Programming Historian's guide to OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine)
+- A more detailed guide, including reconciliation: [OpenRefine for the Humanities](https://hermes-dkz.github.io/OpenRefine-humanities/)
+- [Digital Humanities Workshops from UT Libraries](https://guides.lib.utexas.edu/digital-humanities-workshops): there are a lot of archived recordings of sessions, including a workshop on OpenRefine, among other tools
 
 *Tools:*
 - [OpenRefine](https://openrefine.org/)
