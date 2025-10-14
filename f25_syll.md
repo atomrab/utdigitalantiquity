@@ -82,8 +82,12 @@ Students were asked by Dr. Dahl to spend an hour playing one of the following ga
 - [Censor's Desk](https://www.utjapanlab.com/censor): A game about censorship in modern Japan that puts the player in the position of the censor, judging real works of modern Japanese literature. (Played in a web browser)
 - [Palace of Poetry](https://www.utjapanlab.com/palace): A visual novel that puts the player amidst the cast of the classic novel The Tale of Genji (c. 1000), introducing facets of classical Japanese culture, history, gender roles, and day-to-day life. (Played via a download)
 
-### Readings for student-led discussion #2: DH and Digital Pedagogy
-[STUDENT TO PROVIDE]
+### Readings for student-led discussion #2: DH and Digital Pedagogy :star2: :leopard:
+1. Bonds, E. Leigh. "Listening in on the conversations: An overview of digital humanities pedagogy." CEA Critic 76:2 (2014), 147-157. https://muse.jhu.edu/pub/1/article/550519Links to an external site.
+2. Clement, Tanya. "Multiliteracies in the undergraduate digital humanities curriculum: Skills, principles, and habits of mind," in Digital humanities pedagogy: Practices, principles and politics (2012), 365-388. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=3384097Links to an external site.
+3. Georgopoulou, Maria Sofia, Christos Troussas, Evangelia Triperina, and Cleo Sgouropoulou, "Approaches to Digital Humanities Pedagogy: a systematic literature review within educational practice", Digital Scholarship in the Humanities 40:1 (2025): 121–137. https://doi.org/10.1093/llc/fqae054Links to an external site.
+4. Morris, Sean Michael, and Jesse Stommel. An Urgency of Teachers: The Work of Critical Digital Pedagogy. Hybrid Pedagogy, 2018. https://pressbooks.pub/criticaldigitalpedagogy/part/praxis/Links to an external site. (please read sections entitled "Critical Digital Pedagogy: a Definition," and "Winona Ryder and the Internet of Things")
+5. Selwyn, Neil. "Digital degrowth: toward radically sustainable education technology." Learning, Media and Technology 49:2 (2024), 186-199. https://doi.org/10.1080/17439884.2022.2159978
 
 *Resources:*
 O’Donnell, C. 2014. *Developer’s Dilemma: The Secret World of Videogame Creators*. Inside technology. Cambridge, Massachusetts: MIT Press. (available online via UT Libraries)
