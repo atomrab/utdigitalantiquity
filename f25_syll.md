@@ -117,6 +117,12 @@ O’Donnell, C. 2014. *Developer’s Dilemma: The Secret World of Videogame Crea
 ## Week 8 (October 15): Data and more data. Guest speaker: Michael Shensky, UT Libraries
 What do you do once you’ve reduced information to data?
 
+### Readings
+1. Berners-Lee, T. 2010. “Linked Data - Design Issues.” Www.W3c.Org. [https://www.w3.org/DesignIssues/LinkedData.html](https://www.w3.org/DesignIssues/LinkedData.html). (this is a foundational essay and not too long)
+2. Kansa, S.W., L. Atici, E.C. Kansa, and R.H. Meadow. 2020. “Archaeological Analysis in the Information Age: Guidelines for Maximizing the Reach, Comprehensiveness, and Longevity of Data.” *Advances in Archaeological Practice* 8 (1):40–52. doi:10.1017/aap.2019.36. [https://escholarship.org/content/qt3m35127j/qt3m35127j.pdf](https://escholarship.org/content/qt3m35127j/qt3m35127j.pdf) (OA)
+3. Browse the [*Guides to Good Practice*](https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/) created by the Archaeology Data Service (UK) and the Digital Archaeological Record (US).
+4. Browse the [data publication of the excavations of the Etruscan site of Murlo/Poggio Civitate in Open Context](https://opencontext.org/projects/df043419-f23b-41da-7e4d-ee52af22f92f).
+
 ### Readings for student-led discussion #4: FAIR, CARE, and data standards
 1. [Carroll, S. R., Garba, I., Figueroa-Rodríguez, O. L., Holbrook, J., Lovett, R., Materechera, S., … Hudson, M. (2020). The CARE Principles for Indigenous Data Governance. *Data Science Journal*, 19.1, 43.](https://datascience.codata.org/articles/dsj-2020-043)
 2. [Lien-Talks, A. (2024). How FAIR Is Bioarchaeological Data: With a Particular Emphasis on Making Archaeological Science Data Reusable. *Journal of Computer Applications in Archaeology*, 7(1), 246+.](http://dx.doi.org/10.5334/jcaa.154)
@@ -127,6 +133,21 @@ What do you do once you’ve reduced information to data?
 
 *Optional Reading (if you want some continuation from Matt's discussion last week)*
 1. [Matthieu Quantin, Sarah Tournon, Valentin Grimaud, Florent Laroche, and Xavier Granier. 2023. Combining FAIR principles and long-term archival of 3D data. In Proceedings of the 28th International ACM Conference on 3D Web Technology (Web3D '23). Association for Computing Machinery, New York, NY, USA, Article 16, 1–6.](https://doi.org/10.1145/3611314.3615913)
+
+*Resources:*
+- [Guides to Good Practice](https://archaeologydataservice.ac.uk/help-guidance/guides-to-good-practice/) (ADS and tDAR)
+- [DMPTool](https://dmptool.org/) (sign in with UT EID)
+- [UT Libraries Research Data Services guide](https://guides.lib.utexas.edu/research-data-services/)
+- [Open Context](https://opencontext.org)
+- [Pelagios Network](https://pelagios.org/)
+- [Getty Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/)
+- [kerameikos.org](https://kerameikos.org/)
+
+*Tools:*
+- [OpenRefine](https://openrefine.org/)
+- [Ceri Binding's Getty AAT Vocabulary Matching tool](https://vmt.ariadne.d4science.org/vmt/vmt-app.html)
+- [Pleiades Geocollider reconciliation service](https://geocollider-sinatra.herokuapp.com/)
+- [PeriodO reconciler](https://github.com/periodo/periodo-reconciler?tab=readme-ov-file)
 
 ## Week 9 (October 22): Digital numismatics, epigraphy, and history. Guest speakers: Dr. Alex Walthall and Dr. Naomi Campa
 Ancient evidence that lends itself to datification
