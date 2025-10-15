@@ -110,7 +110,9 @@ O’Donnell, C. 2014. *Developer’s Dilemma: The Secret World of Videogame Crea
 4. [The ICOMOS Seville Principles (2017)](https://icomos.es/wp-content/uploads/2020/06/Seville-Principles-IN-ES-FR.pdf)
 
 ### Readings for student-led discussion #3: VR, AR, 3D: documentation and ethics
-[STUDENT TO PROVIDE]
+1. Forte, Maurizio. “3D Archaeology: New Perspectives and Challenges—The Example of Çatalhöyük.” Journal of Eastern Mediterranean Archaeology & Heritage Studies 2, no. 1 (2014): 1–29. [https://doi.org/10.5325/jeasmedarcherstu.2.1.0001](https://doi.org/10.5325/jeasmedarcherstu.2.1.0001)
+2. Torres, A., Medina-Alcaide, M. Ángeles, Intxaurbe, I., Rivero, O., Rios-Garaizar, J., Arriolabengoa, M., Ruiz-López, J. F., & Garate, D. “Scientific virtual reality as a research tool in prehistoric archaeology: the case of Atxurra Cave (northern Spain).” Virtual Archaeology Review, 15(31), 1–15 (2024). [https://doi.org/10.4995/var.2024.20976](https://doi.org/10.4995/var.2024.20976)
+3. Ulguim, P. “Models and Metadata: The Ethics of Sharing Bioarchaeological 3D Models Online.” Archaeologies 14, 189–228 (2018). [https://doi.org/10.1007/s11759-018-9346-x](https://doi.org/10.1007/s11759-018-9346-x)
 
 *Tools:*
 - [Meshlab](https://www.meshlab.net/)
