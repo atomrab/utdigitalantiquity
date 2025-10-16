@@ -162,6 +162,35 @@ What do you do once you’ve reduced information to data?
 ## Week 9 (October 22): Digital numismatics, epigraphy, and history. Guest speakers: Dr. Alex Walthall and Dr. Naomi Campa
 Ancient evidence that lends itself to datification
 
+Readings for Student-led Discussion (Ben) #5: Digital Epigraphy
+
+#1 Heřmánková, Petra; Adéla Sobotková; Vojtěch Kaše. 2021. [Inscriptions as data: digital epigraphy in macro-historical perspective](https://doi.org/10.1515/JDH-2021-1004?locatt=label:JDHFULL) (If nothing else, read this one closely)
+
+#2 Assael et al. 2025. [Contextualizing ancient texts with generative neural networks](https://doi.org/10.1038/s41586-025-09292-5)
+
+#3 Bodel, John, Jonathan Prag, and Charlotte Roueché. 2024. [Open Scholarship: Epigraphic Corpora in the Digital Age](https://open-epihub.cnr.it/bibliography/7B9QFPEV)
+
+#4 Prag, Jonathan; Alfredo Tosques. 2024. [I.Sicily as a Tool for the Study of Roman Sicily: An Experiment in Institutional Annotation](https://doi.org/10.5209/geri.95520)
+
+Please explore [I.Sicily database](http://sicily.classics.ox.ac.uk/)
+
+
+Extra/Further Reading on Applications:
+
+Hamidović, David, Claire Clivaz, and Sarah Bowen Savant. 2019. [Ancient Manuscripts in Digital Culture: Visualisation, Data Mining, Communication](https://brill.com/edcollbook-oa/title/34930) Doi:10.1163/j.ctvrxk44t
+Highlight: Chapter 9 - Teaching Epigraphy in the Digital Age
+
+Velázquez Soriano, Isabel, and David Espinosa Espinosa. 2021. [Epigraphy in the Digital Age : Opportunities and Challenges in the Recording, Analysis and Dissemination of Inscriptions](https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341) (No DOI ironically, but ISBM:9781789699883)
+
+And really just for fun:
+
+Ceccarelli, S., Rippa, M., Caruso, G. et al. 2025. [Pulsed thermographic analysis of Herculaneum papyri](https://doi.org/10.1038/s41598-025-19911-w)
+
+Plus, the article I mentioned on VLMs:
+
+Zhang et al. 2025 [VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery](https://arxiv.org/html/2510.04479v2#S6)
+
+
 ## Week 10 (October 29): Student presentations – digital project archaeology/autopsy
 What makes a project survive? What happens when a project dies?
 
