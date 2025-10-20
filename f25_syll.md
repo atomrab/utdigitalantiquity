@@ -178,7 +178,7 @@ Please explore [I.Sicily database](http://sicily.classics.ox.ac.uk/)
 *Extra/Further Reading on Applications:*
 
 1. Hamidović, David, Claire Clivaz, and Sarah Bowen Savant. 2019. Ancient Manuscripts in Digital Culture: Visualisation, Data Mining, Communication. Brill. [https://doi.org/10.1163/9789004399297](https://brill.com/edcollbook-oa/title/34930)
-Highlight: Chapter 9 - Teaching Epigraphy in the Digital Age
+
 3. Soriano, Isabel Velázquez, and David Espinosa Espinosa, eds. 2021. Epigraphy in the Digital Age. 1st ed. Archaeopress.[https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341](https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341)
 
 *And really just for fun:*
