@@ -83,11 +83,11 @@ Students were asked by Dr. Dahl to spend an hour playing one of the following ga
 - [Palace of Poetry](https://www.utjapanlab.com/palace): A visual novel that puts the player amidst the cast of the classic novel The Tale of Genji (c. 1000), introducing facets of classical Japanese culture, history, gender roles, and day-to-day life. (Played via a download)
 
 ### Readings for student-led discussion #2: DH and Digital Pedagogy :star2: :leopard:
-1. Bonds, E. Leigh. "Listening in on the conversations: An overview of digital humanities pedagogy." CEA Critic 76:2 (2014), 147-157. https://muse.jhu.edu/pub/1/article/550519Links to an external site.
-2. Clement, Tanya. "Multiliteracies in the undergraduate digital humanities curriculum: Skills, principles, and habits of mind," in Digital humanities pedagogy: Practices, principles and politics (2012), 365-388. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=3384097Links to an external site.
-3. Georgopoulou, Maria Sofia, Christos Troussas, Evangelia Triperina, and Cleo Sgouropoulou, "Approaches to Digital Humanities Pedagogy: a systematic literature review within educational practice", Digital Scholarship in the Humanities 40:1 (2025): 121–137. https://doi.org/10.1093/llc/fqae054Links to an external site.
-4. Morris, Sean Michael, and Jesse Stommel. An Urgency of Teachers: The Work of Critical Digital Pedagogy. Hybrid Pedagogy, 2018. https://pressbooks.pub/criticaldigitalpedagogy/part/praxis/Links to an external site. (please read sections entitled "Critical Digital Pedagogy: a Definition," and "Winona Ryder and the Internet of Things")
-5. Selwyn, Neil. "Digital degrowth: toward radically sustainable education technology." Learning, Media and Technology 49:2 (2024), 186-199. https://doi.org/10.1080/17439884.2022.2159978
+1. [Bonds, E. Leigh. "Listening in on the conversations: An overview of digital humanities pedagogy." CEA Critic 76:2 (2014), 147-157.](https://muse.jhu.edu/pub/1/article/550519)
+2. [Clement, Tanya. "Multiliteracies in the undergraduate digital humanities curriculum: Skills, principles, and habits of mind," in Digital humanities pedagogy: Practices, principles and politics (2012), 365-388.](http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=3384097)
+3. [Georgopoulou, Maria Sofia, Christos Troussas, Evangelia Triperina, and Cleo Sgouropoulou, "Approaches to Digital Humanities Pedagogy: a systematic literature review within educational practice", Digital Scholarship in the Humanities 40:1 (2025): 121–137.](https://doi.org/10.1093/llc/fqae054)
+4. [Morris, Sean Michael, and Jesse Stommel. An Urgency of Teachers: The Work of Critical Digital Pedagogy. Hybrid Pedagogy, 2018.](https://pressbooks.pub/criticaldigitalpedagogy/part/praxis/) "Critical Digital Pedagogy: a Definition," and "Winona Ryder and the Internet of Things"
+5. [Selwyn, Neil. "Digital degrowth: toward radically sustainable education technology." Learning, Media and Technology 49:2 (2024), 186-199.](https://doi.org/10.1080/17439884.2022.2159978)
 
 *Resources:*
 O’Donnell, C. 2014. *Developer’s Dilemma: The Secret World of Videogame Creators*. Inside technology. Cambridge, Massachusetts: MIT Press. (available online via UT Libraries)
@@ -162,33 +162,48 @@ What do you do once you’ve reduced information to data?
 ## Week 9 (October 22): Digital numismatics, epigraphy, and history. Guest speakers: Dr. Alex Walthall and Dr. Naomi Campa
 Ancient evidence that lends itself to datification
 
-Readings for Student-led Discussion (Ben) #5: Digital Epigraphy
+### Readings
+1. Wigg-Wolf, D., and K. Tolle. 2025. “Linked Open Data for Coin Finds. Antike Fundmünzen in Europa (AFE).” In *Proceedings of the XVI International Numismatic Congress, 11-16.09.2022, Warsaw, Vol. IV: Medals, Modern and General Numismatics*, 267–73. Warsaw Studies in Archaeology 13. Brepols Publishers. doi:10.1484/M.WSA-EB.5.145487. [https://www.brepolsonline.net/doi/abs/10.1484/M.WSA-EB.5.145487](https://www.brepolsonline.net/doi/abs/10.1484/M.WSA-EB.5.145487).
+2. Rabinowitz, A., R. Shaw, and P. Golden. 2018. “Making up for Lost Time: Digital Epigraphy, Chronology, and the PeriodO Project.” In *Crossing Experiences in Digital Epigraphy. From Practice to Discipline*, edited by Annamaria De Santis and Irene Rossi, 202–15. Warsaw: De Gruyter Open. [https://doi.org/10.1515/9783110607208-017](https://doi.org/10.1515/9783110607208-017).
 
-#1 Heřmánková, Petra; Adéla Sobotková; Vojtěch Kaše. 2021. [Inscriptions as data: digital epigraphy in macro-historical perspective](https://doi.org/10.1515/JDH-2021-1004?locatt=label:JDHFULL) (If nothing else, read this one closely)
+### Readings for Student-led Discussion #5: Digital Epigraphy
 
-#2 Assael et al. 2025. [Contextualizing ancient texts with generative neural networks](https://doi.org/10.1038/s41586-025-09292-5)
-
-#3 Bodel, John, Jonathan Prag, and Charlotte Roueché. 2024. [Open Scholarship: Epigraphic Corpora in the Digital Age](https://open-epihub.cnr.it/bibliography/7B9QFPEV)
-
-#4 Prag, Jonathan; Alfredo Tosques. 2024. [I.Sicily as a Tool for the Study of Roman Sicily: An Experiment in Institutional Annotation](https://doi.org/10.5209/geri.95520)
+1. Heřmánková, Petra; Adéla Sobotková; Vojtěch Kaše. 2021. [Inscriptions as data: digital epigraphy in macro-historical perspective](https://doi.org/10.1515/JDH-2021-1004?locatt=label:JDHFULL) (If nothing else, read this one closely)
+2. Assael et al. 2025. [Contextualizing ancient texts with generative neural networks](https://doi.org/10.1038/s41586-025-09292-5)
+3. Bodel, John, Jonathan Prag, and Charlotte Roueché. 2024. [Open Scholarship: Epigraphic Corpora in the Digital Age](https://open-epihub.cnr.it/bibliography/7B9QFPEV)
+4. Prag, Jonathan; Alfredo Tosques. 2024. [I.Sicily as a Tool for the Study of Roman Sicily: An Experiment in Institutional Annotation](https://doi.org/10.5209/geri.95520)
 
 Please explore [I.Sicily database](http://sicily.classics.ox.ac.uk/)
 
+*Extra/Further Reading on Applications:*
 
-Extra/Further Reading on Applications:
+1. Hamidović, David, Claire Clivaz, and Sarah Bowen Savant. 2019. [Ancient Manuscripts in Digital Culture: Visualisation, Data Mining, Communication](https://brill.com/edcollbook-oa/title/34930) Highlight: Chapter 9 - Teaching Epigraphy in the Digital Age
+2. Velázquez Soriano, Isabel, and David Espinosa Espinosa. 2021. [Epigraphy in the Digital Age : Opportunities and Challenges in the Recording, Analysis and Dissemination of Inscriptions](https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341) (No DOI ironically, but ISBM:9781789699883)
 
-Hamidović, David, Claire Clivaz, and Sarah Bowen Savant. 2019. [Ancient Manuscripts in Digital Culture: Visualisation, Data Mining, Communication](https://brill.com/edcollbook-oa/title/34930)
-Highlight: Chapter 9 - Teaching Epigraphy in the Digital Age
-
-Velázquez Soriano, Isabel, and David Espinosa Espinosa. 2021. [Epigraphy in the Digital Age : Opportunities and Challenges in the Recording, Analysis and Dissemination of Inscriptions](https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341) (No DOI ironically, but ISBM:9781789699883)
-
-And really just for fun:
+*And really just for fun:*
 
 Ceccarelli, S., Rippa, M., Caruso, G. et al. 2025. [Pulsed thermographic analysis of Herculaneum papyri](https://doi.org/10.1038/s41598-025-19911-w)
 
 Plus, the article I mentioned on VLMs:
 
 Zhang et al. 2025 [VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery](https://arxiv.org/html/2510.04479v2#S6)
+
+*Resources:*
+- [EpiDoc Guidelines](https://epidoc.stoa.org/gl/latest/)
+- [EAGLE, with links to partner epigraphic databases](https://www.eagle-network.eu/)
+- [PHI Epigraphy Project](https://epigraphy.packhum.org/)
+- [Attic Inscriptions Online](https://www.atticinscriptions.com/)
+- [PeriodO](https://perio.do)
+- [Nomisma](https://nomisma.org/)
+- [Trismegistos](https://www.trismegistos.org/)
+- [Portable Antiquities Scheme](https://finds.org.uk/) (try searching for coins)
+- [Online resources of the American Numismatic Society](https://numismatics.org/resources/) (includes OCRE, Greek Coin Hoards, etc.)
+- King's College Digital Lab epigraphic publications: [IOSPE](https://iospe.kcl.ac.uk/index.html) and [Inscriptions of Aphrodisias](https://insaph.kcl.ac.uk/insaph/)
+- [Papyri.info](https://papyri.info/) (technically neither numismatics nor epigraphy, but still writing on archaeological objects)
+
+*Tools:*
+- [Predicting the Past: Ithaca and Aeneas Google DeepMind models for epigraphic reconstruction](https://predictingthepast.com/)
+- [Trapezites](https://trapezites.com/) (Joey Castellano's supplemental PhD project involving an ancient currency exchange rate calculator)
 
 
 ## Week 10 (October 29): Student presentations – digital project archaeology/autopsy
@@ -201,6 +216,7 @@ What does a computer see, and can it help us to see things we otherwise wouldn�
 No readings or discussion: we’ll spend the whole session working on computational photography capture and processing (photogrammetry and RTI), using items from the UT Classics collection
 
 ## Week 13 (November 19): Digital approaches to ancient art
+Note that we will be conducting a capture session for the Blanton Vases starting at 10am on Monday, November 17th
 
 ## Week 14 (December 3): Concluding discussion and digital project hackathon
 
