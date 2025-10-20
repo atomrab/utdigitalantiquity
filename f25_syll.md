@@ -168,22 +168,22 @@ Ancient evidence that lends itself to datification
 
 ### Readings for Student-led Discussion #5: Digital Epigraphy
 
-1. Heřmánková, P., V. Kaše, and A. Sobotková. “Inscriptions as Data: Digital Epigraphy in Macro-Historical Perspective.” Journal of Digital History 1 (2021). [https://doi.org/10.1515/JDH-2021-1004?locatt=label:JDHFULL](https://doi.org/10.1515/JDH-2021-1004?locatt=label:JDHFULL)
-2. Assael, Yannis, T. Sommerschield, A. Cooley, et al. “Contextualizing Ancient Texts with Generative Neural Networks.” Nature 645 (July 2025): 141–47. [https://doi.org/10.1038/s41586-025-09292-5](https://doi.org/10.1038/s41586-025-09292-5)
-3. Bodel, John, Jonathan Prag, and Charlotte Roueché. “Open Scholarship: Epigraphic Corpora in the Digital Age.” In *Proceedings of L’épigraphie Au XXIe Siècle. Actes Du XVIe Congrès International d’Épigraphie Grecque et Latine*, edited by Pierre Fröhlich and Milagros Navarro Cabellero. 91-117. Bordeaux: Ausonius, 2024. [https://open-epihub.cnr.it/bibliography/7B9QFPEV](https://open-epihub.cnr.it/bibliography/7B9QFPEV)
-4. Prag, Jonathan, and Alfredo Tosques. “I.Sicily as a Tool for the Study of Roman Sicily: An Experiment in Institutional Annotation.” Gerión. Revista de Historia Antigua 42(Eng.) (2024): 73–91. [https://doi.org/10.5209/geri.95520](https://doi.org/10.5209/geri.95520)
+1. Heřmánková, P., V. Kaše, and A. Sobotková. 2021. “Inscriptions as Data: Digital Epigraphy in Macro-Historical Perspective.” Journal of Digital History 1. [https://doi.org/10.1515/JDH-2021-1004?locatt=label:JDHFULL](https://doi.org/10.1515/JDH-2021-1004?locatt=label:JDHFULL)
+2. Assael, Yannis, T. Sommerschield, A. Cooley, et al. 2025. “Contextualizing Ancient Texts with Generative Neural Networks.” Nature 645: 141–47. [https://doi.org/10.1038/s41586-025-09292-5](https://doi.org/10.1038/s41586-025-09292-5)
+3. Bodel, John, Jonathan Prag, and Charlotte Roueché. 2024. “Open Scholarship: Epigraphic Corpora in the Digital Age.” In *Proceedings of L’épigraphie Au XXIe Siècle. Actes Du XVIe Congrès International d’Épigraphie Grecque et Latine*, edited by Pierre Fröhlich and Milagros Navarro Cabellero. 91-117. Bordeaux: Ausonius. [https://open-epihub.cnr.it/bibliography/7B9QFPEV](https://open-epihub.cnr.it/bibliography/7B9QFPEV)
+4. Prag, Jonathan, and Alfredo Tosques. 2024. “I.Sicily as a Tool for the Study of Roman Sicily: An Experiment in Institutional Annotation.” Gerión. Revista de Historia Antigua 42(Eng.): 73–91. [https://doi.org/10.5209/geri.95520](https://doi.org/10.5209/geri.95520)
 
 Please explore [I.Sicily database](http://sicily.classics.ox.ac.uk/)
 
 *Extra/Further Reading on Applications:*
 
-1. Hamidović, David, Claire Clivaz, and Sarah Bowen Savant. Ancient Manuscripts in Digital Culture: Visualisation, Data Mining, Communication. Brill, 2019. [https://doi.org/10.1163/9789004399297](https://brill.com/edcollbook-oa/title/34930)
+1. Hamidović, David, Claire Clivaz, and Sarah Bowen Savant. 2019. Ancient Manuscripts in Digital Culture: Visualisation, Data Mining, Communication. Brill. [https://doi.org/10.1163/9789004399297](https://brill.com/edcollbook-oa/title/34930)
 Highlight: Chapter 9 - Teaching Epigraphy in the Digital Age
-3. Soriano, Isabel Velázquez, and David Espinosa Espinosa, eds. Epigraphy in the Digital Age. 1st ed. Archaeopress, 2021.[https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341](https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341)
+3. Soriano, Isabel Velázquez, and David Espinosa Espinosa, eds. 2021. Epigraphy in the Digital Age. 1st ed. Archaeopress.[https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341](https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341)
 
 *And really just for fun:*
 
-1. Ceccarelli, S., M. Rippa, and G. Caruso. “Pulsed Thermographic Analysis of Herculaneum Papyri.” Sci Rep 15, no. 34466 (2025). [https://doi.org/10.1038/s41598-025-19911-w](https://doi.org/10.1038/s41598-025-19911-w)
+1. Ceccarelli, S., M. Rippa, and G. Caruso. 2025. “Pulsed Thermographic Analysis of Herculaneum Papyri.” Sci Rep 15, no. 34466. [https://doi.org/10.1038/s41598-025-19911-w](https://doi.org/10.1038/s41598-025-19911-w)
 
 Plus, the pre-print article on VLMs:
 
