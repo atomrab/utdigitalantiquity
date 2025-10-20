@@ -164,7 +164,7 @@ Ancient evidence that lends itself to datification
 
 ### Readings
 1. Wigg-Wolf, D., and K. Tolle. 2025. “Linked Open Data for Coin Finds. Antike Fundmünzen in Europa (AFE).” In *Proceedings of the XVI International Numismatic Congress, 11-16.09.2022, Warsaw, Vol. IV: Medals, Modern and General Numismatics*, 267–73. Warsaw Studies in Archaeology 13. Brepols Publishers. doi:10.1484/M.WSA-EB.5.145487. [https://www.brepolsonline.net/doi/abs/10.1484/M.WSA-EB.5.145487](https://www.brepolsonline.net/doi/abs/10.1484/M.WSA-EB.5.145487).
-2. Rabinowitz, A., R. Shaw, and P. Golden. 2018. “Making up for Lost Time: Digital Epigraphy, Chronology, and the PeriodO Project.” In *Crossing Experiences in Digital Epigraphy. From Practice to Discipline*, edited by Annamaria De Santis and Irene Rossi, 202–15. Warsaw: De Gruyter Open. https://doi.org/10.1515/9783110607208-017.
+2. Rabinowitz, A., R. Shaw, and P. Golden. 2018. “Making up for Lost Time: Digital Epigraphy, Chronology, and the PeriodO Project.” In *Crossing Experiences in Digital Epigraphy. From Practice to Discipline*, edited by Annamaria De Santis and Irene Rossi, 202–15. Warsaw: De Gruyter Open. [https://doi.org/10.1515/9783110607208-017](https://doi.org/10.1515/9783110607208-017).
 
 ### Readings for Student-led Discussion #5: Digital Epigraphy
 
