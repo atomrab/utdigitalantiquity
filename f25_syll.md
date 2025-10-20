@@ -197,7 +197,7 @@ Zhang et al. 2025 [VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery](ht
 - [Nomisma](https://nomisma.org/)
 - [Trismegistos](https://www.trismegistos.org/)
 - [Portable Antiquities Scheme](https://finds.org.uk/) (try searching for coins)
-- [Online resources of the American Numismatic Society[(https://numismatics.org/resources/) (includes OCRE, Greek Coin Hoards, etc.)
+- [Online resources of the American Numismatic Society](https://numismatics.org/resources/) (includes OCRE, Greek Coin Hoards, etc.)
 - King's College Digital Lab epigraphic publications: [IOSPE](https://iospe.kcl.ac.uk/index.html) and [Inscriptions of Aphrodisias](https://insaph.kcl.ac.uk/insaph/)
 - [Papyri.info](https://papyri.info/) (technically neither numismatics nor epigraphy, but still writing on archaeological objects)
 
