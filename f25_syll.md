@@ -172,14 +172,13 @@ Ancient evidence that lends itself to datification
 2. Assael, Yannis, T. Sommerschield, A. Cooley, et al. 2025. “Contextualizing Ancient Texts with Generative Neural Networks.” Nature 645: 141–47. [https://doi.org/10.1038/s41586-025-09292-5](https://doi.org/10.1038/s41586-025-09292-5)
 3. Bodel, John, Jonathan Prag, and Charlotte Roueché. 2024. “Open Scholarship: Epigraphic Corpora in the Digital Age.” In *Proceedings of L’épigraphie Au XXIe Siècle. Actes Du XVIe Congrès International d’Épigraphie Grecque et Latine*, edited by Pierre Fröhlich and Milagros Navarro Cabellero. 91-117. Bordeaux: Ausonius. [https://open-epihub.cnr.it/bibliography/7B9QFPEV](https://open-epihub.cnr.it/bibliography/7B9QFPEV)
 4. Prag, Jonathan, and Alfredo Tosques. 2024. “I.Sicily as a Tool for the Study of Roman Sicily: An Experiment in Institutional Annotation.” Gerión. Revista de Historia Antigua 42(Eng.): 73–91. [https://doi.org/10.5209/geri.95520](https://doi.org/10.5209/geri.95520)
-
-Please explore [I.Sicily database](http://sicily.classics.ox.ac.uk/)
+5. Please explore [I.Sicily database](http://sicily.classics.ox.ac.uk/)
 
 *Extra/Further Reading on Applications:*
 
 1. Hamidović, David, Claire Clivaz, and Sarah Bowen Savant. Ancient Manuscripts in Digital Culture: Visualisation, Data Mining, Communication. Vol. 3. Digital Biblical Studies. Leiden: Brill, 2019. [https://doi.org/10.1163/9789004399297](https://brill.com/edcollbook-oa/title/34930)
 
-3. Soriano, Isabel Velázquez, and David Espinosa Espinosa, eds. Epigraphy in the Digital Age. 1st ed. Oxford: Archaeopress, 2021. [https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341](https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341)
+2. Soriano, Isabel Velázquez, and David Espinosa Espinosa, eds. Epigraphy in the Digital Age. 1st ed. Oxford: Archaeopress, 2021. [https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341](https://ebookcentral.proquest.com/lib/utxa/detail.action?docID=6719341)
 
 *And really just for fun:*
 
