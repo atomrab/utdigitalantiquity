@@ -193,6 +193,8 @@ Plus, the pre-print article on VLMs:
 - [EAGLE, with links to partner epigraphic databases](https://www.eagle-network.eu/)
 - [PHI Epigraphy Project](https://epigraphy.packhum.org/)
 - [Attic Inscriptions Online](https://www.atticinscriptions.com/)
+- [Krateros Project, Princeton](https://www.ias.edu/krateros)
+- [Ohio State Center for Epigraphic and Paleographic Studies](https://epigraphy.osu.edu/about-us)
 - [PeriodO](https://perio.do)
 - [Nomisma](https://nomisma.org/)
 - [Trismegistos](https://www.trismegistos.org/)
