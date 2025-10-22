@@ -211,6 +211,14 @@ Plus, the pre-print article on VLMs:
 ## Week 10 (October 29): Student presentations – digital project archaeology/autopsy
 What makes a project survive? What happens when a project dies?
 
+### Online projects to be reviewed
+- [Ancient Graffiti Project](https://ancientgraffiti.org/Graffiti/) (started 2013)
+- [Attic Vase Inscriptions](https://avi.unibas.ch/) (started 2004)
+- [Coinage of the Roman Republic Online](https://numismatics.org/crro/) (started 2010?)
+- [Digital Augustan Rome](https://www.digitalaugustanrome.org/) (started 2004)
+- [Digital Hadrian's Villa](http://vwhl.soic.indiana.edu/villa/index.php) (launched 2013)
+- [Pelagios Project/Pelagios Network](https://pelagios.org/) (started 2011)
+
 ## Week 11 (November 5): AI, deep learning, and geospatial data. Guest speaker: Dr. Leila Character, Texas A&M
 What does a computer see, and can it help us to see things we otherwise wouldn’t?
 
