@@ -211,10 +211,14 @@ Plus, the pre-print article on VLMs:
 ## Week 10 (October 29): Student presentations – digital project archaeology/autopsy
 What makes a project survive? What happens when a project dies?
 
+### Readings (for after presentations, as food for thought)
+- [Nowviskie, B. 2015. “Digital Humanities in the Anthropocene.” *Digital Scholarship in the Humanities* 30 (supplement 1):i14–i15. doi:10.1093/llc/fqv015.](https://academic.oup.com/dsh/article/30/suppl_1/i4/362432?ijkey=VjM7T4zQbmIEZZY&keytype=ref)
+- Nowviskie, B., and D. Porter. 2010. “The Graceful Degradation Survey: Managing Digital Humanities Projects Through Times of Transition and Decline.” DH 2010 Abstracts. [http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/pdf/ab-722.pdf](http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/pdf/ab-722.pdf).
+
 ### Online projects to be reviewed
 - [Ancient Graffiti Project](https://ancientgraffiti.org/Graffiti/) (started 2013)
 - [Attic Vase Inscriptions](https://avi.unibas.ch/) (started 2004)
-- [Coinage of the Roman Republic Online](https://numismatics.org/crro/) (started 2010?)
+- [Coinage of the Roman Republic Online](https://numismatics.org/crro/) (started 2010?)/[Numishare](https://numishare.blogspot.com/) (started ca. 2011)
 - [Digital Augustan Rome](https://www.digitalaugustanrome.org/) (started 2004)
 - [Digital Hadrian's Villa](http://vwhl.soic.indiana.edu/villa/index.php) (launched 2013)
 - [Pelagios Project/Pelagios Network](https://pelagios.org/) (started 2011)
