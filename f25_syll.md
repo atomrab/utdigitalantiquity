@@ -237,10 +237,10 @@ What does a computer see, and can it help us to see things we otherwise wouldn�
 
 
 ### Readings for Dr. Character's presentation (suggested by Dr. Character)
-1. [Character, L., M. Moline, M.W. Breece, E. White, D. Davis, and C. Colbourn. 2025. “Deep Learning for Detection of Underwater Aircraft Wrecks from US Conflicts | Journal of Computer Applications in Archaeology.” *Journal of Computer Applications in Archaeology* 8 (1):139–55. doi:10.5334/jcaa.179.](https://journal.caa-international.org/articles/10.5334/jcaa.179)
+1. [Character, L., M. Moline, M.W. Breece, E. White, D. Davis, and C. Colbourn. 2025. “Deep Learning for Detection of Underwater Aircraft Wrecks from US Conflicts.” *Journal of Computer Applications in Archaeology* 8 (1):139–55. doi:10.5334/jcaa.179.](https://journal.caa-international.org/articles/10.5334/jcaa.179)
 2. [Character, L., T. Beach, T. Inomata, T.G. Garrison, S. Luzzadder-Beach, J.D. Baldwin, R. Cambranes, F. Pinzón, and J.L. Ranchos. 2024. “Broadscale Deep Learning Model for Archaeological Feature Detection across the Maya Area.” *Journal of Archaeological Science* 169:106022. doi:10.1016/j.jas.2024.106022.](https://www.sciencedirect.com/science/article/abs/pii/S0305440324000906)
-3. [Zeynali, R., E. Mandanici, and G. Bitelli. 2025. “A Technical Note on AI-Driven Archaeological Object Detection in Airborne LiDAR Derivative Data, with CNN as the Leading Technique.” Remote Sensing 17 (15):2733. doi:10.3390/rs17152733.](https://www.mdpi.com/2072-4292/17/15/2733)
-4. [Berganzo-Besga, I., H.A. Orengo, F. Lumbreras, M. Carrero-Pazos, J. Fonte, and B. Vilas-Estévez. 2021. “Hybrid MSRM-Based Deep Learning and Multitemporal Sentinel 2-Based Machine Learning Algorithm Detects Near 10k Archaeological Tumuli in North-Western Iberia.” Remote Sensing 13 (20):4181. doi:10.3390/rs13204181.](https://www.mdpi.com/2072-4292/13/20/4181)
+3. [Zeynali, R., E. Mandanici, and G. Bitelli. 2025. “A Technical Note on AI-Driven Archaeological Object Detection in Airborne LiDAR Derivative Data, with CNN as the Leading Technique.” *Remote Sensing* 17 (15):2733. doi:10.3390/rs17152733.](https://www.mdpi.com/2072-4292/17/15/2733)
+4. [Berganzo-Besga, I., H.A. Orengo, F. Lumbreras, M. Carrero-Pazos, J. Fonte, and B. Vilas-Estévez. 2021. “Hybrid MSRM-Based Deep Learning and Multitemporal Sentinel 2-Based Machine Learning Algorithm Detects Near 10k Archaeological Tumuli in North-Western Iberia.” *Remote Sensing* 13 (20):4181. doi:10.3390/rs13204181.](https://www.mdpi.com/2072-4292/13/20/4181)
 
 
 ## Week 12 (November 12): Computational photography workshop 
