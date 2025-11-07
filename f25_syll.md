@@ -227,8 +227,8 @@ What makes a project survive? What happens when a project dies?
 What does a computer see, and can it help us to see things we otherwise wouldn’t?
 
 ### Readings for student-led discussion, focus on ethics paper and skim the broad overview (Mina) 
-1. Janowicz, K. (2023). Philosophical foundations of geoai: Exploring sustainability, diversity, and bias in geoai and spatial data science. In Handbook of geospatial artificial intelligence (pp. 26-42). CRC Press. https://arxiv.org/pdf/2304.06508
-2. Mai, G., Xie, Y., Jia, X., Lao, N., Rao, J., Zhu, Q., ... & Jiao, J. (2025). Towards the next generation of Geospatial Artificial Intelligence. International Journal of Applied Earth Observation and Geoinformation, 136, 104368. https://www.sciencedirect.com/science/article/pii/S1569843225000159
+1. Janowicz, K. (2023). Philosophical foundations of geoai: Exploring sustainability, diversity, and bias in geoai and spatial data science. In Handbook of geospatial artificial intelligence (pp. 26-42). CRC Press. [https://arxiv.org/pdf/2304.06508](https://arxiv.org/pdf/2304.06508)
+2. Mai, G., Xie, Y., Jia, X., Lao, N., Rao, J., Zhu, Q., ... & Jiao, J. (2025). Towards the next generation of Geospatial Artificial Intelligence. International Journal of Applied Earth Observation and Geoinformation, 136, 104368. [https://www.sciencedirect.com/science/article/pii/S1569843225000159](https://www.sciencedirect.com/science/article/pii/S1569843225000159)
 
 *Tools:*
 - [Google Earth Tutorials](https://www.google.com/earth/outreach/learn/)
@@ -246,8 +246,18 @@ What does a computer see, and can it help us to see things we otherwise wouldn�
 ## Week 12 (November 12): Computational photography workshop 
 No readings or discussion: we’ll spend the whole session working on computational photography capture and processing (photogrammetry and RTI), using items from the UT Classics collection
 
-## Week 13 (November 19): Digital approaches to ancient art
-Note that we will be conducting a capture session for the Blanton Vases starting at 10am on Monday, November 17th
+*Resources:*
+- [Cultural Heritage Imaging website](https://culturalheritageimaging.org/) -- see tutorial videos for [capture](https://vimeo.com/channels/photographicdatacapture) and [metadata](https://culturalheritageimaging.org/What_We_Do/Publications/3DResearch/) (and also the DLN linked under week 7), as well as information about [Reflectance Transformation Imaging](https://culturalheritageimaging.org/Technologies/RTI/)
 
-## Week 14 (December 3): Concluding discussion and digital project hackathon
+*Tools:*
+- [Metashape](https://www.agisoftmetashape.com/)
+- [RealityScan (formerly Reality Capture)](https://www.realityscan.com/en-US) (note that they offer a free license to educators and students)
+- [Relight RTI tools](https://vcg.isti.cnr.it/vcgtools/relight/)
+- [Adobe DNG converter](https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html) (free proprietary tool to convert the RAW format into the open, uncompressed Digital Negative (DNG) format)
+- [RawTherapee](https://rawtherapee.com/) (free raw photo processing software)
+
+## Week 13 (November 19): Digital approaches to ancient art
+Note that we will be conducting a capture session for the Blanton Vases starting at 10:15am on Monday, November 17th
+
+## Week 14 (December 3): Graphs, networks, and archaeology; concluding discussion and digital project hackathon
 
