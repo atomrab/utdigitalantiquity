@@ -27,6 +27,8 @@ An introduction to a very vexed question.
 ## Week 3: Community and AI
 What a lot of Digital Humanities reflection and criticism seems to be converging on.
 
+*Instead of class session, seminar participants will attend part or all of the [2025 Texas Digital Humanities Symposium](https://library.web.baylor.edu/discover/texasdigitalhumanitiessymposium), hosted by the Baylor Libraries and Baylor Digital Humanities Initiative*
+
 ### Readings
 1. For this session, please browse the recent open-access textbook *Introduction to Digital Humanism*, H. Werthner, C. Ghezzi, J. Kramer, J. Nida-Rümelin, B. Nuseibeh, E. Prem., A. Stanger, eds. (Cham: Springer, 2024), [https://library.oapen.org/handle/20.500.12657/87619](https://library.oapen.org/handle/20.500.12657/87619). In addition to browsing, be sure to read the chapter by Heitzinger and Woltran, “A short introduction to artificial intelligence: methods, success stories, and current limitations”, pp. 135-149.
 
@@ -42,8 +44,6 @@ If AI can write your code for you, do you need to know how to do it?
 2. [Klein, L., M. Martin, A. Brock, M. Antoniak, M. Walsh, J.M. Johnson, L. Tilton, and D. Mimno. 2025. “Provocations from the Humanities for Generative AI Research.” arXiv. doi:10.48550/arXiv.2502.19190.](http://arxiv.org/abs/2502.19190)
 3. [Ma, R., M. Dedema, and A. Cox. 2025. “A Dancing Bear, a Colleague, or a Sharpened Toolbox? The Cautious Adoption of Generative AI Technologies in Digital Humanities Research.” arXiv. doi:10.48550/arXiv.2404.12458.](http://arxiv.org/abs/2404.12458)
 
-*Tools:* AI coding environments, [R](https://cloud.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/), [Jupyter Notebooks](https://jupyter.org/) ([this](https://docs.jupyter.org/en/latest/what_is_jupyter.html) is a good introduction to coding notebooks)
-
 *Resources:*
 - [The Programming Historian](https://programminghistorian.org/)
 - [PythonHumanities](https://pythonhumanities.com/) (note that there are also textbooks linked on the website, eg [https://python-textbook.pythonhumanities.com/intro.html](https://python-textbook.pythonhumanities.com/intro.html)) 
@@ -51,6 +51,12 @@ If AI can write your code for you, do you need to know how to do it?
 - [Big Book of R](https://www.bigbookofr.com/)
 - [How to do archaeological science using R](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/) (Ben Marwick)
 - Lars Hinrich's [R mapping tutorial](https://capable-starburst-55b62f.netlify.app/) (the one we did in class)
+
+*Tools:* 
+- AI coding environments 
+- [R](https://cloud.r-project.org/)
+- [R Studio](https://posit.co/download/rstudio-desktop/)
+- [Jupyter Notebooks](https://jupyter.org/) ([this](https://docs.jupyter.org/en/latest/what_is_jupyter.html) is a good introduction to coding notebooks)
 
 ## Week 5: Digital initiatives, museums, and funding. Guest speaker: Koven Smith, lately of the Knight Foundation
 Digital projects in the museum world: lifecycles, funding, and challenges
@@ -260,4 +266,32 @@ No readings or discussion: we’ll spend the whole session working on computatio
 Note that we will be conducting a capture session for the Blanton Vases starting at 10:15am on Monday, November 17th
 
 ## Week 14 (December 3): Graphs, networks, and archaeology; concluding discussion and digital project hackathon
+Networking, then and now
+
+### Readings
+1. [Scheidel, W. 2014. “The Shape of the Roman World: Modelling Imperial Connectivity.” Journal of Roman Archaeology 27:7–32. doi:10.1017/S1047759414001147.](https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/shape-of-the-roman-world-modelling-imperial-connectivity/E61006878912791FDEE7CFAD95530770)
+2. [Graham, S., and S. Weingart. 2015. “The Equifinality of Archaeological Networks: An Agent-Based Exploratory Lab Approach.” Journal of Archaeological Method and Theory 22 (1):248–74. doi:10.1007/s10816-014-9230-y.](https://doi.org/10.1007/s10816-014-9230-y)
+3. Lawrence, A.K. 2022. “Harder – Better – Faster – Stronger? Roman Archaeology and the Challenge of ‘Big Data.’” Theoretical Roman Archaeology Journal 5 (1). doi:10.16995/traj.8881. [https://traj.openlibhums.org/article/id/8881/](https://traj.openlibhums.org/article/id/8881/).
+4. [de Soto, P., A. Pažout, T. Brughmans, P.B. Vahlstrup, Á. Auir, T. Bongers, J.E.B. Christoffersen, et al. 2025. “Itiner-e: A High-Resolution Dataset of Roads of the Roman Empire.” Scientific Data 12 (1):1731. doi:10.1038/s41597-025-06140-z.](https://www.nature.com/articles/s41597-025-06140-z) (note the extensive press coverage of this release -- clearly their university PR department was on it -- and the renewed use of "a Google Maps for ancient Rome" metaphor)
+
+*Resources:*
+- [ORBIS](https://orbis.stanford.edu/)
+- [Itiner-E](https://itiner-e.org/)
+- [Network chapters in the Programming Historian](https://programminghistorian.org/en/lessons/?topic=network-analysis)
+- [Network section in the pre-print/final draft of the Historian's Macroscope (first edition)](http://web.archive.org/web/20160315222903/http://www.themacroscope.org/?page_id=338)
+- [Clement Levallois' Gephi tutorials](https://seinecle.github.io/gephi-tutorials/)
+
+*Tools:*
+- [Palladio](https://hdlab.stanford.edu/palladio/)
+- [Gephi](https://gephi.org/)
+- [Nodegoat](https://nodegoat.net/)
+
+*for our hackathon:*
+- [International Image Interoperability Framework (IIIF)](https://iiif.io/)
+- [the British Library instantiation of Peripleo](https://github.com/britishlibrary/peripleo) (this is the one that the developer feels is the most appropriate for visualizations for folks who know their way around Github and HTML but are not developers)
+- [Performant Studio](https://www.performantsoftware.com/studio/) (currently free for members of the [Pelagios Network](https://pelagios.org/))
+
+
+
+
 
