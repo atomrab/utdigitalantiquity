@@ -265,6 +265,12 @@ No readings or discussion: we’ll spend the whole session working on computatio
 ## Week 13 (November 19): Digital approaches to ancient art
 Note that we will be conducting a capture session for the Blanton Vases starting at 10:15am on Monday, November 17th
 
+### Readings for Student-led Discussion #7: Digital Art History
+
+1. Drucker, Johanna. 2013. “Is There a 'Digital' Art History?” Visual Resources 29, nos. 1-2: 5-13. [https://www.tandfonline.com/doi/pdf/10.1080/01973762.2013.761106](https://www.tandfonline.com/doi/pdf/10.1080/01973762.2013.761106)
+2. Bishop, Claire. 2018. “Against Digital Art History.” International Journal for Digital Art History, no. 3: 122–31. [https://doi.org/10.1038/s41586-025-09292-5](https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/49915)
+3. Wasielewski, Amanda. 2023. “Introduction: Return to Form.” In Computational Formalism: Art History and Machine Learning, 1-37. Cambridge: The MIT Press. [https://direct.mit.edu/books/oa-monograph/5587/Computational-FormalismArt-History-and-Machine](https://direct.mit.edu/books/oa-monograph/5587/Computational-FormalismArt-History-and-Machine)
+
 ## Week 14 (December 3): Graphs, networks, and archaeology; concluding discussion and digital project hackathon
 Networking, then and now
 
