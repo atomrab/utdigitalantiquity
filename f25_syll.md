@@ -280,7 +280,7 @@ Note that we will be conducting a capture session for the Blanton Vases starting
 *Relevant to our project:*
 - [Beazley Archive](https://www.carc.ox.ac.uk/carc/pottery)
 - [CVA Online](https://www.carc.ox.ac.uk/cva/home)
-- [3D scan collection of Greek vases at UVA](https://archaeology.virginia.edu/3d-greek-vases)
+- [3D scan collection of Greek vases at UVA](https://archaeology.virginia.edu/3d-greek-vases) (see also [their use of 3DHOP viewers for a subset of these vases](https://uva3d.iath.virginia.edu/greek_vases_collection)
 - [Ure Museum collection of models of Greek vases on Sketchfab](https://sketchfab.com/uremuseum/collections/greek-pottery-30d0ef56f445453192af086c807af414)
 - [Museo Arqueológico Nacional 3D Greek vase project](https://www.man.es/man/en/mandigital/vasos-griegos-3d.html)
 - [Cleveland Museum of Art photogrammetry explainer focused on vases with 3D gallery](https://www.clevelandart.org/digital-innovations/3-d-photogrammetry)
@@ -309,6 +309,7 @@ Networking, then and now
 
 *for our hackathon:*
 - [International Image Interoperability Framework (IIIF)](https://iiif.io/)
+- [3DHOP](https://3dhop.net/)
 - [the British Library instantiation of Peripleo](https://github.com/britishlibrary/peripleo) (this is the one that the developer feels is the most appropriate for visualizations for folks who know their way around Github and HTML but are not developers)
 - [Performant Studio](https://www.performantsoftware.com/studio/) (currently free for members of the [Pelagios Network](https://pelagios.org/))
 
