@@ -271,6 +271,19 @@ Note that we will be conducting a capture session for the Blanton Vases starting
 2. Bishop, Claire. 2018. “Against Digital Art History.” International Journal for Digital Art History, no. 3: 122–31. [https://doi.org/10.1038/s41586-025-09292-5](https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/49915)
 3. Wasielewski, Amanda. 2023. “Introduction: Return to Form.” In Computational Formalism: Art History and Machine Learning, 1-37. Cambridge: The MIT Press. [https://direct.mit.edu/books/oa-monograph/5587/Computational-FormalismArt-History-and-Machine](https://direct.mit.edu/books/oa-monograph/5587/Computational-FormalismArt-History-and-Machine)
 
+*Resources:*
+- [Linked Art](https://linked.art/)
+- [art research .net](https://artresearch.net/resource/start)
+- [Google Arts and Culture](https://artsandculture.google.com/)
+- [Pompeii Artistic Landscape Project](https://palp.art/start)
+
+*Relevant to our project:*
+- [Beazley Archive](https://www.carc.ox.ac.uk/carc/pottery)
+- [CVA Online](https://www.carc.ox.ac.uk/cva/home)
+- [3D scan collection of Greek vases at UVA](https://archaeology.virginia.edu/3d-greek-vases)
+- [Ure Museum collection of models of Greek vases on Sketchfab](https://sketchfab.com/uremuseum/collections/greek-pottery-30d0ef56f445453192af086c807af414)
+- [Cleveland Museum of Art photogrammetry explainer focused on vases with 3D gallery](https://www.clevelandart.org/digital-innovations/3-d-photogrammetry)
+
 ## Week 14 (December 3): Graphs, networks, and archaeology; concluding discussion and digital project hackathon
 Networking, then and now
 
