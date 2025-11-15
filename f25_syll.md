@@ -282,6 +282,7 @@ Note that we will be conducting a capture session for the Blanton Vases starting
 - [CVA Online](https://www.carc.ox.ac.uk/cva/home)
 - [3D scan collection of Greek vases at UVA](https://archaeology.virginia.edu/3d-greek-vases)
 - [Ure Museum collection of models of Greek vases on Sketchfab](https://sketchfab.com/uremuseum/collections/greek-pottery-30d0ef56f445453192af086c807af414)
+- [Museo Arqueológico Nacional 3D Greek vase project](https://www.man.es/man/en/mandigital/vasos-griegos-3d.html)
 - [Cleveland Museum of Art photogrammetry explainer focused on vases with 3D gallery](https://www.clevelandart.org/digital-innovations/3-d-photogrammetry)
 
 ## Week 14 (December 3): Graphs, networks, and archaeology; concluding discussion and digital project hackathon
