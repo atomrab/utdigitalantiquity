@@ -271,16 +271,28 @@ Note that we will be conducting a capture session for the Blanton Vases starting
 2. Bishop, Claire. 2018. “Against Digital Art History.” International Journal for Digital Art History, no. 3: 122–31. [https://doi.org/10.1038/s41586-025-09292-5](https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/49915)
 3. Wasielewski, Amanda. 2023. “Introduction: Return to Form.” In Computational Formalism: Art History and Machine Learning, 1-37. Cambridge: The MIT Press. [https://direct.mit.edu/books/oa-monograph/5587/Computational-FormalismArt-History-and-Machine](https://direct.mit.edu/books/oa-monograph/5587/Computational-FormalismArt-History-and-Machine)
 
+*Interesting things to look at in this context:* 
+- the result of a National Gallery of Art "datathon" in 2019, with [visualizations of similarities between paintings produced through computer-vision analysis of 90000 paintings](https://nga-neighbors.library.cmu.edu/essay)
+- an [interactive website](https://www.moma.org/interactives/objectphoto/#home) meant to provide a different view of a smaller collection of 341 photos from one person's collection at the MOMA
+
+*See also:*
+1. Colwell, T., and L. King. 2023. “Distant Viewing: Computational Image Similarity and Visual Resources Collections.” Art Documentation: Journal of the Art Libraries Society of North America 42 (2):182–94. [doi:10.1086/730941](https://doi.org/10.1086/730941).
+
 *Resources:*
 - [Linked Art](https://linked.art/)
 - [art research .net](https://artresearch.net/resource/start)
 - [Google Arts and Culture](https://artsandculture.google.com/)
 - [Pompeii Artistic Landscape Project](https://palp.art/start)
 
+*Tools:*
+- [PixPlot](https://github.com/pleonard212/pix-plot)
+- [Mirador](https://projectmirador.org/)
+- [3DHOP](https://3dhop.net/)
+
 *Relevant to our project:*
 - [Beazley Archive](https://www.carc.ox.ac.uk/carc/pottery)
 - [CVA Online](https://www.carc.ox.ac.uk/cva/home)
-- [3D scan collection of Greek vases at UVA](https://archaeology.virginia.edu/3d-greek-vases) (see also [their use of 3DHOP viewers for a subset of these vases](https://uva3d.iath.virginia.edu/greek_vases_collection)
+- [3D scan collection of Greek vases at UVA](https://archaeology.virginia.edu/3d-greek-vases) (see also [their use of 3DHOP viewers for a subset of these vases](https://uva3d.iath.virginia.edu/greek_vases_collection))
 - [Ure Museum collection of models of Greek vases on Sketchfab](https://sketchfab.com/uremuseum/collections/greek-pottery-30d0ef56f445453192af086c807af414)
 - [Museo Arqueológico Nacional 3D Greek vase project](https://www.man.es/man/en/mandigital/vasos-griegos-3d.html)
 - [Cleveland Museum of Art photogrammetry explainer focused on vases with 3D gallery](https://www.clevelandart.org/digital-innovations/3-d-photogrammetry)
@@ -309,11 +321,5 @@ Networking, then and now
 
 *for our hackathon:*
 - [International Image Interoperability Framework (IIIF)](https://iiif.io/)
-- [3DHOP](https://3dhop.net/)
 - [the British Library instantiation of Peripleo](https://github.com/britishlibrary/peripleo) (this is the one that the developer feels is the most appropriate for visualizations for folks who know their way around Github and HTML but are not developers)
 - [Performant Studio](https://www.performantsoftware.com/studio/) (currently free for members of the [Pelagios Network](https://pelagios.org/))
-
-
-
-
-
