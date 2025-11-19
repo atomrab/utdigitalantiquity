@@ -274,6 +274,7 @@ Note that we will be conducting a capture session for the Blanton Vases starting
 *Interesting things to look at in this context:* 
 - the result of a National Gallery of Art "datathon" in 2019, with [visualizations of similarities between paintings produced through computer-vision analysis of 90000 paintings](https://nga-neighbors.library.cmu.edu/essay)
 - an [interactive website](https://www.moma.org/interactives/objectphoto/#home) meant to provide a different view of a smaller collection of 341 photos from one person's collection at the MOMA
+- [Lev Manovich's website](https://manovich.net/) (he comes up a lot in the readings)
 
 *See also:*
 1. Colwell, T., and L. King. 2023. “Distant Viewing: Computational Image Similarity and Visual Resources Collections.” Art Documentation: Journal of the Art Libraries Society of North America 42 (2):182–94. [doi:10.1086/730941](https://doi.org/10.1086/730941).
