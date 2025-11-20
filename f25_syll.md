@@ -319,6 +319,7 @@ Networking, then and now
 - [Palladio](https://hdlab.stanford.edu/palladio/)
 - [Gephi](https://gephi.org/)
 - [Nodegoat](https://nodegoat.net/)
+- [KeplerGL](https://kepler.gl/)
 
 *for our hackathon:*
 - [International Image Interoperability Framework (IIIF)](https://iiif.io/)
